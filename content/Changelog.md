@@ -1,0 +1,91 @@
+- 4/5/2026
+	- Initialized website.
+	- Set up Cloudflare
+	- Made GitHub repository 
+	- Set up Quartz
+- 5/5/2026
+	- minor adjustments to previous essays
+	- Changed the method of page sorting from serial to chronological. 
+		- Changed sorting from descending to ascending. 
+	- Got the homepage working.
+	- Changed local storage from the OneDrive folder to the actual document folder. May God smite the guys over at Microsoft for creating this monster whose corpse still troubles me.  
+		- It seems that all of our stuff is stored within OneDrive folders, even if we uninstall it. This causes issues due to the special nature of these folders. 
+- 05-06-2026
+	- Got the sorting layout to order pages based on date as it's primary method
+		- In the event that multiple pages share the same date, a secondary property known as order is used to determine the order. 
+	- Disabled GitHub pages and actions to stop attempts of duplicate hosting. 
+	- Redeployed website after Cloudflare got stuck on an earlier build. 
+	- <s>Added support for themes before installing a custom theme. </s>
+		- Reverted back to yesterday's version since the custom themes broke the website.
+			- Users (me) couldn't select text on the website
+			- Hours spent on resolving this issue: 3
+		- By reverting to this version, some parts of this project broke 
+			- Resolved this by deleting the text files and rebuilding the symbolic link that connected my vault and quartz
+		- Just learnt the hard way that git doesn't roll **everything** back. Resolved this by manually deleting the responsible files.
+		- It seems that I'll have to make my own theme. 
+- 05-07-2026
+	- Implemented my own custom theme, took roughly an hour or two. 
+	- Got the input-field for email up to a presentable standard, courtesy of !important.
+		- A common trait here is that any CSS I do gets overridden unless I use !important or change the source after combing through every file. 
+	- Created [[Credits]]
+	- employed a combination of wikilinks and markdown marks
+- 05-09-2026
+	- Added the spreadsheet into [[index]]
+	- Retrospectively began to reference prior works with each other. 
+	- reconfigured global graph view to make it more visually appealing. 
+		- Changed settings that affected graph behavior 
+		- Changed the colour of the link from dark purple to grey for visibility. 
+			- Spent 1-2 hours on this
+			- Reconfigured settings accordingly
+			- Spent another hour on changing the color of links when highlighted.
+			- Broke the graph entirely in the process of doing so, requiring additional time to resolve issue. 
+- 05-14-2026
+	- Testing began for [[42-Letters]].
+- 05-17-2026
+	- No changes, but I just realized that the local graph view restarts when the theme changes. Cool bit of trivia ngl.
+- 05-20-2026
+	- Redefined this as a Digital Garden. 
+	-  Removed the email list. 
+		- This would inhibit the growth of this project and would introduce artificial traffic. 
+		- If people are going to read my works and want a reminder. If you like my works this much, then just ask me. 
+		- Keep in mind, this is a lifetime project– it's easy for this to become messy.
+- 05-23-2026
+	- Changes to [[index]]
+		- Rewrote the entire body
+		- Introduced a table of contents. 
+	- Changes to [[Credits]]
+		- Removed it as it would be redundant in its current iteration. 
+	- Changes to [[42-Letters]]
+		- Added an update before the Author's note. 
+- 05-24-2026
+	- ~~The addition of a Journal. ~~
+		- ~~It's going to be composed of personal experiences and recollections, so it won't be polished. The main reason why I'm creating this new classification is so that this writing won't hold up to the standards of my essays. ~~
+- 06-06-2026
+	- Added the 'Knowledge' folder 
+		- Declared my intent to store the notes of my **Major**
+			- Notes will be made based on subject matter. Example being HTML, classes, variable, etc. 
+			- Notes will subsequently categorized based on course with tags, ergo CS 2400, CS 2300, CS 3000, etc. 
+		- Declared my intent to archive my experiences in **AFROTC** 
+			- Waiting until formal enrollment before I elaborate further. 
+- 06-08-2026
+	- Backend 
+		- Audited it and found discrepancies with the serialization. 
+		- Reserialized the spreadsheet and stored notes to align with each other. I've done this for the 4-5th time, so I pray that this is the last. It is tedious, with a disproportionate amount of time being invested into this facet that results in minimal changes.
+	- Invalidation
+		- In [[37-Fives|Fives]], I formalized my choice of writing shorter essays after considering the conditions that I published my works in. As I said before, words are a bond– an oath. 
+		- Since then, the scope of this project has expanded. The nature of this project has become a garden, so I don't have to curate my words. One way or another, it shall become a lush one.
+		- In addition to this, I have been inconsistent– my actions perjuring these words of mine. So while this may be a factor in my consideration for this change, it is a mark on my integrity.
+		- It is hereby resolved, that the limitation that I have established unto myself has been invalidated in light of this. 
+- 06-13-2026
+	- [[29-Tones|Tones]] & [[15-Looking Back|Looking Back]]
+		- Added hyperlink support for referenced essays. 
+- 06-20-2026
+	- Reviewed 4 out of 44 essays to anonymize personal identifiable information. 
+- 06-21-2026
+	- The actions of 06-20-2026 are under an administrative injunction, pending resolution.
+	- Completed [[44-Conflict]]
+		- Added a new property: **Time of Completion**
+			- The **Date** property now signifies the start of each essay, starting from [[44-Conflict]]
+- 07-01-2026
+	- Added [[Legalese]]
+	- Remind me to update this if you still see it.
