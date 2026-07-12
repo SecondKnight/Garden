@@ -106,9 +106,10 @@
 			- Added an introduction to [[Essays/index|Essays]]
 	-  [[44-Conflict]]
 		- Finally removed that WIP tag.
+	- 
 	-  ~~Remind me to update this if you still see it.~~ Updated. 
 	- Inactivity
 		- I'll be taking a short break on this website and writing since I've overplayed my hand here. I didn't keep track, but it's not the first time that I've burnt out. But, I can't really rest until I accomplish the goal I set out to do– one that I've completed today. 
-		- So I'll be taking a short break from this project.
-		- First task to do once I'm back is updating the spreadsheet. 
+		- <s>So I'll be taking a short break from this project. </s> Screw it, I'm not taking a break.
+		- I'll be working on the worksheet to ensure that it's fully updated. 
 			- Should I count this changelog? It's almost 1,300 words now. 

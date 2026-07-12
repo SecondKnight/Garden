@@ -1,8 +1,16 @@
 ---
-title: Template
-draft: true
-date: 11/12/2025
+title: Pontifex
+draft: false
+date: 07-11-2026
 ---
+
+# Note:
+This was a fun little experiment I decided to do based on a writing prompt. For now, I don't plan on writing an entire novel. But, I'm still proud of my writing– so I'll let it stay here. I might return to this and write some more if I feel like it. Unfortunately, a day only has twenty four hours– so time is my limit here. I wrote this under a timeline so the end of chapter 2 may be a bit scuffed, I'll probably fix that in a few days before I let this rest.
+
+# Main: 
+
+## Chapter 1 
+
 Year 0 of the Caelivox Calendar. 
 
 Aquileia, Northern Prefecture. 
@@ -27,7 +35,7 @@ After a few minutes, the guards fell back into their usual stride. They'd been o
  
 Neos chuckles hearing this "Theo, you know that I was the one who escorted your wife home last night. Just say the word and I'll be there day and night." The rest of the men clutch their ribs with laughter, their roars mixing with the sizzle of burning flesh.
 
-
+## Chapter 2
 Sancta Ecclesia Incarnati.
 
 The wind blows through the windows, stirring the chandelier as Fidelis waits for the rest of his followers to arrive. He looks at the windows and signals to the eight crimson-clad figures behind him. "By the time the candle by the door burns out, lock them and block off any interlopers– by voice or by might." Two of the inquisitors start closing the windows, another two stand by the doors, waiting. 
@@ -40,7 +48,7 @@ Praesidius represents the Central Prefecture's forces, serving as a Tribune in t
 
 Praesidius stands, his armor creaking "Thank you your Holiness. As some of you are new faces, I'll get you all up to speed. The Sigillate-King of recent times was a man who earned the condemnation of Heaven and man. So we, the Praetorian Guard, Ehrenwache, and the Curia made an oath to wash his influence off with blood. The Curia started off by covering his eyes, suppressing certain reports while rewriting others. Under this layer of protection, Ehrenwache slowly hunted his loyalists. Once they were done, our task came into play– to cut off the serpent's head." As he continues to speak, the true scale of this gathering dawned on the initiates. 
 
-"Two days ago, we  fulfilled our oath. As I speak, the entire guard is en route to Aquileia with the Sigillate-King's body. They will arrive by sunrise." Cato pushes his glasses up as he opens his mouth "What use do we have with a false king's body?" Fidelis interjects "A King's blood holds the vitality of a nation. Even while false, he died on the throne. The Incarnate is pleased with this result." 
+"Two days ago, we fulfilled our oath. As I speak, the entire guard is en route to Aquileia with the Sigillate-King's body. They will arrive by sunrise." Cato pushes his glasses up as he opens his mouth "What use do we have with a false king's body?" Fidelis interjects "A King's blood holds the vitality of a nation. Even while false, he died on the throne. The Incarnate is pleased with this result." 
 
 Praesidius sits down and watches the table break out into casual banter. Latoris waits for a few minutes, to let the gravity of these words sink in before he gets up again and claps once. "Our network of pilgrims in the Central and Southern Prefectures report that the Curia and Ehrenwache are both purging informants and are currently consolidating their gains from this. It appears that once they're done, Vostannia shall be thrown into the anvils of war once more. There are currently three power blocs: Our own led by Fidelis, the Curia led by Regulus, and Ehrenwache led by Invictus. Each of us are competing to succeed the old king, to restore Vostannia to its true might. For this war, Aquileia shall be our command city. Our immediate goal is to capitalize on our gains and to strengthen ourselves."
 
