@@ -86,7 +86,7 @@
 	- Completed [[44-Conflict]]
 		- Added a new property: **Time of Completion**
 			- The **Date** property now signifies the start of each essay, starting from [[44-Conflict]]
-- 07-01-2026 to 07-11-2026
+- 07-01-2026 to 07-12-2026
 	- This log is being consolidated due to my recent inconsistency in updating this. 
 	- Upgraded the entire website from Quartz 4 to Quartz 5
 		- Broke several website components
@@ -111,11 +111,14 @@
 		- Finally removed that WIP tag.
 	-  ~~Remind me to update this if you still see it.~~ Updated. 
 	- Inactivity
-		- I'll be taking a short break on this website and writing since I've overplayed my hand here. I didn't keep track, but it's not the first time that I've burnt out. But, I can't really rest until I accomplish the goal I set out to do– one that I've completed today. 
-		- <s>So I'll be taking a short break from this project. </s> Screw it, I'm not taking a break.
+		- Originally, I planned on taking a short break on this website and this project as a whole. I didn't spend all twelve days on this project, but it never left my mind. What I did spend was over six hours of troubleshooting. 
+		- Taking a break would make me an workaholic with no work. Unacceptable. In a way, writing is my ideal. It is a **permanent** expression, one that'll remain as I drink my suffering raw. 
+		- Why revel in comfort and its many forms when they'll come and go? You won't find the same person twice, from those who share your lifespan– so how could you expect comfort from anything less? Cogito, ergo sum. If my thought proves my existence, then surely it can sustain it.
 	- Pending tasks:
 		- Spreadsheet 
 			- Requires an update
 			- Should I count this changelog? It's almost 1,300 words now. 
 		- Graph
 			- Link colors need to changed to optimize visibility.
+		- Anything else.
+- Placeholder.
