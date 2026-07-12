@@ -104,9 +104,11 @@
 			- Added[[Knowledge/Computer Science/index|Computer Science]]
 			- Added [[Knowledge/AFROTC/index|AFROTC]]
 			- Added an introduction to [[Essays/index|Essays]]
+		- [[Scraps/index|Scraps]]
+		- Added introduction.
+		- Added [[Pontifex]]
 	-  [[44-Conflict]]
 		- Finally removed that WIP tag.
-	- 
 	-  ~~Remind me to update this if you still see it.~~ Updated. 
 	- Inactivity
 		- I'll be taking a short break on this website and writing since I've overplayed my hand here. I didn't keep track, but it's not the first time that I've burnt out. But, I can't really rest until I accomplish the goal I set out to do– one that I've completed today. 
