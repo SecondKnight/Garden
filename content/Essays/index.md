@@ -1,5 +1,5 @@
 ---
-title: index.md
+title: Essays
 draft: false
 ---
 
