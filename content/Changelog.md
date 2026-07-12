@@ -58,8 +58,8 @@
 	- Changes to [[42-Letters]]
 		- Added an update before the Author's note. 
 - 05-24-2026
-	- ~~The addition of a Journal. ~~
-		- ~~It's going to be composed of personal experiences and recollections, so it won't be polished. The main reason why I'm creating this new classification is so that this writing won't hold up to the standards of my essays. ~~
+	- <s>The addition of a Journal.
+		- It's going to be composed of personal experiences and recollections, so it won't be polished. The main reason why I'm creating this new classification is so that this writing won't hold up to the standards of my essays.</s>
 - 06-06-2026
 	- Added the 'Knowledge' folder 
 		- Declared my intent to store the notes of my **Major**
@@ -86,6 +86,29 @@
 	- Completed [[44-Conflict]]
 		- Added a new property: **Time of Completion**
 			- The **Date** property now signifies the start of each essay, starting from [[44-Conflict]]
-- 07-01-2026
-	- Added [[Legalese]]
-	- Remind me to update this if you still see it.
+- 07-01-2026 to 07-11-2026
+	- This log is being consolidated due to my recent inconsistency in updating this. 
+	- Upgraded the entire website from Quartz 4 to Quartz 5
+		- Broke several website components
+		- Due to my lack of experience, I made those issues worse and had to revert to Quartz 4. 
+		- Deleted the entire GitHub repository and created a new one.
+			- This time, **almost** all of my previous issues and modifications were resolved. 
+			- custom.scss was code I had for Quartz 4 and I only realized that after it drove me insane for a week. 
+			- This website is now at a publishable state **again.**
+		- URL change
+			- Cloudflare project for hosting this website was deleted: <u>quartz-e5i.pages.dev</u>   
+			- new Cloudflare project was made in order to change the custom domain allotted to me: <u>zakarias-digital-garden.pages.dev/</u>
+	- Folders created with introductions
+		- [[Knowledge/index|Knowledge]]
+			- Added [[Knowledge/Legalese/index|Legalese]]
+			- Added[[Knowledge/Computer Science/index|Computer Science]]
+			- Added [[Knowledge/AFROTC/index|AFROTC]]
+			- Added an introduction to [[Essays/index|Essays]]
+	-  [[44-Conflict]]
+		- Finally removed that WIP tag.
+	-  ~~Remind me to update this if you still see it.~~ Updated. 
+	- Inactivity
+		- I'll be taking a short break on this website and writing since I've overplayed my hand here. I didn't keep track, but it's not the first time that I've burnt out. But, I can't really rest until I accomplish the goal I set out to do– one that I've completed today. 
+		- So I'll be taking a short break from this project.
+		- First task to do once I'm back is updating the spreadsheet. 
+			- Should I count this changelog? It's almost 1,300 words now. 

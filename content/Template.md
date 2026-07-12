@@ -11,3 +11,10 @@ Greetings Praetorian! May this message find you before Reaper does. The division
 Anyways, I hope that I'll see you there! As always, have a great day or night!
 
 https://discord.com/events/888271198537023509/1511429269606367242
+
+
+
+
+
+
+

@@ -1,5 +1,5 @@
 ---
-title: home
+title: Home
 ---
 # My Garden
 Welcome to my **Digital Garden**. A collection of notes that'll eventually bury me. I mean it quite literally, since anything that I write will be planted here. Sure, I may tire– but the only thing that'll change would be my content. 

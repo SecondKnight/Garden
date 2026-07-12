@@ -1,5 +1,5 @@
 ---
-title: Conflict-WIP
+title: Conflict
 draft: false
 date: 06-07-2026
 ---
