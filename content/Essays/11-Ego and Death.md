@@ -28,7 +28,6 @@ In the end it realised, for it to be free of such contradictions is to die once 
 From the ashes of the Devil, the Human was born. The shards of the Jester were reintegrated with infernal anger lingering within this Human’s soul. The Human watched the world that they lived in, looking at it with disgust– for his innocence has long since perished. He looked at his past and felt shame and disgust course through his veins.  
   
 His laughter was one that could constantly be heard– until his laughter became a crime. From this prosecution, he learnt to don a mask– a mask that hides his emotions and thoughts. He hones his moral compass as he begins to observe others– his disgust deepening the reserves of his tolerance, one born of powerlessness.  
-  
 
 This Human is the first ego to have survived for more than a year. Before he begins his second year of survival, he is betrayed. His trust in a friend is damaged– a friend from the Jester’s time. This transgression was forgiven, believed to be a mistake born out of fear.  
   
@@ -41,7 +40,6 @@ The Human’s essence lived on as a Ghost. This Ghost dwelled among others, trul
 However, this Ghost was nourished by the few that he found a comfort in. A comfort that anchored itself. Yet, with the passage of time– those few have become dimmed, a comfort that no longer comforts the Ghost. The Ghost learnt that no being shall truly be with him in this life– that he and God alone will be the only two that shall always be there.  
   
 Thus, the Ghost chose to die– to let go of such comfort and to get rid of the past once more.  
-  
 
 A body long buried– the body of the Human digs itself out of its grave. It attempts to take off the mask that it donned years ago, but time has meshed the face with the mask– becoming one. Along with this change, the body feels a sense of alienation– his knowledge and vision diverging from those that he could claim as “His” people. They could claim him yet he could not claim them.  
   
@@ -50,11 +48,8 @@ It wishes to be Human once more– to feel and to interact with its kind once mo
 Thus, the body chose to die– to let the Human wake up to reality.  
   
 However, in his place, a Hermit appeared. With the birth and death of each ego, the Human aged. He gave up his desire to be understood by others– whether they understand him or not, it is no longer a concern. He has let go of his attachment to people, recognizing that their presence is one fated to leave him. It is not to isolate himself– to fully let go of those who already left. 
-
   
 He abandoned his desires yet left his intentions whole– unable to fully leave them behind. He is tired– tired of life yet marches forth. That which is his in this life shall surely be granted by providence– so what is the point of desire if it is a desire to covet that which has no affinity with him?
-
-  
 
 His hands still burn– the price for snuffing such vivid desires. For him to end one pain– he gains another as his heart aches. Yet this Hermit is a tired man— a man who feels as if he is an imposter cloaked in his own skin. A man who fears that he shall be seen only for his goodness, that his goodness covers his entire being– a layer of a mask that needs no supplement.  
   
@@ -64,7 +59,6 @@ At last, the Hermit realizes– his vice is unlike the others, a purity that he 
   
 A vice that has become the Hermit’s foundation.  
   
-
 His traits are moulded by his predecessors– those who died are gone, yet their indelible marks still remain long after their passage. 
 
   
@@ -76,10 +70,8 @@ A Preacher who spent his time discoursing others with the intent to defend his r
   
 A Question, a Question that constantly changes itself– to learn more. A gluttonous Question, a greed for knowledge. A Question that never pauses in its questioning– for its goal is to understand a person in the most thorough manner. A Question that lacks expression– an atmosphere of deafening silence.  
   
-
 A hopeless Romantic, a pitiful one with tall standards yet his own height measures short. A want on the verge of a need– restrained by Egos and Echoes alike. Cursed to reject incomplete love– to reject his ardent desire to love and be loved– for the only love he recognizes is one with vows. A hopeless Romantic– one whose affinity is with depth, for this Romantic’s weight is an encompassing one– a love that shall drown in shallow waters. 
 
-  
 A Mask, one conceals emotions and thoughts– its twitches and signs were once consciously made to show emotion, becoming natural to it. A Mask whose weight conceals the reality of a person. One could never truly disappear– for it is an instinct, one which has to be consciously lowered– as testament, that his humanity still remains. A Mask that was made to hide laughter has become an armor– concealing scars– containing lunacy.  
   
 An Arbiter, one whose ink stains his clothes as he buries others in bureaucracy. A patient avenger, observing and compiling every interaction to punish others– waiting for irrefutable evidence, waiting for a single mistake to use dated records to cover their remains with red tape. An Arbiter who seeks retribution for the powerlessness he felt– rendering him unable to right the wrongs he laid privy to.  

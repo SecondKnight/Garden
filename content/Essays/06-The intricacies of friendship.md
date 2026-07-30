@@ -36,7 +36,7 @@ Another thing that I was considering was making profiles of my “friends” wit
 
 It’s also redundant considering that I won’t forget it and I’m just too tired to make it. As an idea, it is interesting and something that I would do if I was passionate enough and had enough energy for me to do so if the other conditions were met.  
   
-When I mentioned the military propaganda, I forgot to mention all of those paid psychology studies for teens, notably one from OSU’s medical center for at least $100+. I’m sorry but these thoughts of mine are mine alone to use and distribute as I please. What if my undiagnosed mental disorders actually become diagnosed? I don’t have the funds to pay for the treatment and I honestly prefer my writing instead.  
+When I mentioned the military propaganda, I forgot to mention all of those paid psychology studies for teens, notably one from [REDACTED] for at least $100+. I’m sorry but these thoughts of mine are mine alone to use and distribute as I please. What if my undiagnosed mental disorders actually become diagnosed? I don’t have the funds to pay for the treatment and I honestly prefer my writing instead.  
   
 Over the course of my writing, I’ve slowly realized that I have forgotten to mention a crucial detail that may cause others to get a mistaken impression of myself. When I write, I write to collect my thoughts and inspect my being. So these thoughts of mine are a mix of old thoughts and ones generated as I’m writing all of this. 
 

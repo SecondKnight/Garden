@@ -1,5 +1,5 @@
 ---
-title: knowledge/computer-science
+title: Comp.Sci
 draft: false
 date: 06-06-2026
 tag:

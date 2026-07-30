@@ -8,7 +8,7 @@ My writing style is something that I haven’t really used until now. I have two
 
 The first style is the style that you’re reading right now. It’s more casual and chaotic, which makes it more bearable to read and makes it faster for me to write. While I may use some words that are a bit advanced, most of my work with this style is more understandable and down to earth.  
   
-A style fuelled by my madness– a madness with principles. It’s contradictory nature– formality with emotions threatening to upheave it. A tone that lacks divinity yet makes up for it with mortal grace. It’s imagery conjured by thoughts, reserved for writing that has garnered my passion. A vocabulary weathered by time– a homage to those before me. 
+A style fueled by my madness– a madness with principles. It’s contradictory nature– formality with emotions threatening to upheave it. A tone that lacks divinity yet makes up for it with mortal grace. It’s imagery conjured by thoughts, reserved for writing that has garnered my passion. A vocabulary weathered by time– a homage to those before me. 
 
 A style not favoured by time– one that makes the most of the multi-disciplinary knowledge that lingers with me. A style favoured by me— one whose harvest will determine its fate. A style in which my pride resides, a pride whose hubris is none. Its growth determined by my sacrifice. A style that hides details in sight, letting my true nature stay hidden.  
   

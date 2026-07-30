@@ -121,4 +121,9 @@
 		- Graph
 			- Link colors need to changed to optimize visibility.
 		- Anything else.
-- Placeholder.
+- 07-24-2026
+	-  It's actually the 30th, but I forgot to update this part. 
+	- Redacted PII up to the 12th essay.
+- 07-30-2026 
+	- Taking [[42-Letters]]down for maintenance. 
+	- Fixed the name of  [[Knowledge/Computer Science/index|index]] 
