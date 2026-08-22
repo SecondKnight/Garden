@@ -127,3 +127,8 @@
 - 07-30-2026 
 	- Taking [[42-Letters]]down for maintenance. 
 	- Fixed the name of  [[Knowledge/Computer Science/index|index]] 
+- 08-01-2026
+	- Restored [[42-Letters]] and rewrote the sections after the main part.  
+- 08-08-2026
+	- Finished [[45-Silence]] 
+	- Removed 

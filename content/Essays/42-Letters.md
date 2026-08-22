@@ -1,6 +1,6 @@
 ---
 title: Letters
-draft: true
+draft: false
 date: 05-23-2026
 ---
 # Main
@@ -86,15 +86,6 @@ As of today, I have fulfilled this mandate. I have lived this year in accordance
 
 This is Samez, signing off. 
 
-# 05-23-2026:
-Unfortunately I wasn't able to take photos with others because of the rain, but who doesn't love the rain. it felt fitting for this occasion. I wanted to take photos with everyone I gave letters to, but my words about life have been proven true. 
-
-Originally, I was going to schedule all of this to be uploaded while the ceremony was going on. I thought we'd be off the grid so I could make a cool surprise. But, my sleep deprivation and pending migraine have thwarted my efforts. That and **the fact that we were still on the grid.**
-
-Anyways, let me know about your reactions to your letters since it's fun to watch. I should've written that into your actual letters, but it's fine. 
-
-Whether I see your 
-
 Author's note: 
 
 I wasn't ambiguous when I wrote about debts being annulled and resolving threads. There's only so much string that can tie people together– it's a part of life so there's no blame to cast. So let this end be as dignified as yourself. As such, I cannot accept anything borne from these letters– words that serve as an extension and a knot. 
@@ -113,12 +104,26 @@ As for the last matter, let the record indicate that I've made two mistake in th
 
 Regardless, I am proud of my craft. As always, congratulations on reaching the end of this essay. I'd relieve you of this task, but I've already done it in [[37-Fives|Fives]]
 
+
+# 05-23-2026:
+
+Wanted to take pictures with the recipients, but the rain messed it up. Regrettable, but that's life. When you're wearing a suit, it feels good to walk in the rain. My diploma almost got wet, but it's fine. 
+
+Originally, I was going to publish this on a schedule. It'd make for a good surprise since we were supposed to be off the grid. But, I've been disappointed again. Silver lining was that I could make it during the graduation. It didn't help that I was both sleep deprived and suffered from a migraine. 
+
+Anyways, let me know about your reactions to your letters since it's fun to watch. I should've written that into your actual letters, but it's fine. 
+
 # 06-20-2026
-It seems that I won't be able to fulfill everything I wrote here. If the process of my writing was like a forge, then I've made a clear dereliction of duty by not striking when the iron was hot. There are six letters that I planned on writing. For three of them, I could try to compensate two of these mistakes with my presence next year– but it's more likely than not for me to miss even that. As for the third one of this batch, I shall write a letter. Not 'Will', but 'Shall'. Let me be damned than to let another stumble on the same mistakes i had in my path. 
 
-As for the three letters meant for this year... I dallied for long for one and instead bore witness to a conflict that ruined the atmosphere that permits me to write. As for the second, I can still redeem myself– so let time write the remainder of this. For the third, I never wrote my intent– so I scrapped it before I could commit to myself to writing it. I see them the same, but I've lost the will to write another letter freely.
+I bit off more than I could chew, so now I'm spitting it all out. I had six more letters planned out, but I don't think I write any more letters. The time for three letters already expired and I don't plan on writing any more in general. 
 
-The only reason why I'm writing them now is out of obligation– not passion. I wrote my will and it falls on me to execute it. I am ashamed to write this, but a record must be kept– of my pride and its shortcomings. 
+I accept responsibility for this. After all, I put all of this in writing out of confidence– one that now reeks of pessimism. I'm not proud to write this, but a record must be kept even when it's inconvenient. 
+
+# 08-01-2026
+
+I wrote letters for nine– an interesting number. In Chinese lore, the number nine signifies perfection– but I don't see it here. A [[45-Silence|mediation]] between two led to the defense of one. From this defense, I drunk not one– but two toasts of defeat. That leaves 8. From seven, there are two whose stances remain clear. Even out of sight, I can place my confidence in them. Only 6 remain. I find one of them to be an ally, their trust already proven. I find five. A person that gave their thanks in the form of pearls, a trophy that I'll relish. One who gave a token grace, one that proved more sincere than three– I asked and they answered, knowingly or unknowingly.  As for the last three, they acted true to my words– their silence is their answer. Their time to object has long since passed. 
+
+Ans so, we've reached another perfection– zero. Once again, I find myself on this [[45-Silence|Mountain]]. A year's bonds have culminated into another lesson. I want to enjoy, but I find no joy in what I've learnt.
 
 
 

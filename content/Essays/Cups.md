@@ -1,89 +1,48 @@
 ---
 title: Cups
-draft: true
+unlisted: true
 ---
-If people can attempt to kill me with how corny they were, then surely I can write this. After all, some of us have relationships– and I'm happy for them. But, I might eat my pointer and middle finger with the way they remind me of what I don't have. 
 
-This essay is going to a bit special. I move for a suspension of the rule inscribed in 'Trifecta': "To publish all of my essays on my personal stories." 
+Love. An emotion that hastens joy. Yet I find it as a cause of fear. It should be around a year now, but I confessed and promised in the same breath– to wait for her. Yet here I am, doubting my judgement, worrying that the person I speak to now isn't the same person I fell in love with.
 
-In addition to this, I move to temporarily strip the binding power of the rule inscribed in 'Ego and Death': "My writing shall remain neutral in terms of religion." With this, I am able to write more freely. 
+She was my soul's comfort, yet now I find myself doubting my own love– that very sense of comfort. It seems that when I made that promise, I thought my emotions wouldn't change– a foolish notion. With distance comes clarity, a truth for both drugs and people. Yet I can't escape her. After all, did I not chain myself to her with that promise?  
 
-The scope of these changes and procedures are limited to this essay.
+It's time to carry through with that promise, to ask her decision oncemore. If I'm bound by my words, then I'll free myself with them. Even when my affection blazed in its prime, there were conditions. If the first knock wasn't enough, then I'll knock again. If a year isn't enough for her to make a choice, then it falls to my prerogative. 
 
-Unlike other essays, this is meant to consolidate my understanding of a certain topic. To write my thoughts in full without ambiguity. To sever lines of thoughts and the myriad derivations linked to future works.
+Even as this love remains unaffirmed, I still find myself hesitant. Hesitant to sever a thread I've kept around my hand for three years now. Yet I can't waver. Her indecisiveness alone, unintentional or intentional, is a disease that only grows stronger in time– withering my bones. If I don't act now with whatever lucidity remains, then I fear I won't be able to act in the future. I fear that if I don't sever her now, that I won't be able to love another in the future.
 
-The purpose of this is to create a stance for me to fallback on– to reference in later essays as a shield of sorts. I’m not particularly keen on articulating this. I see this as being compromising myself, but I must define myself first. Lest others garner the audacity to define that which lies within my jurisdiction. 
+I can no longer discern the feelings I have for her, as my doubt has already clouded them. If she opens the door, do I want to walk in? I don't know, but I can't stand still. On one hand, I want to walk in– but I fear that I'll walk out scorned. On the other, I fear that if I were to close her door– that I wouldn't be able to open another. 
 
-Love. In 'Why do I write?', I wrote that I love the righteous– but I'm not one of them. I'm shamed to say that it remains true. I wrote that as much as I love people, I fear that they'll submerge me– words that lost their power. 
+My Lord has granted me divine providence, provisions that were written for me a lifetime ago– words that I can't read. So how could I tell that she's my missing rib? How do I even know that love is a part of what He has given me. Not everyone can love, nor can everyone be loved. Some of us were born alone, and will die alone– who's to say that I'm not one of them?
 
-In 'My love for people...', I wrote that I love people. That interacting with them nourishes me, a paradoxical one considering my introverted nature. Yet these words still ring true. The most clear words are:
+So, let these questions determine my path– to become lamplights that shape my verdict. So without further ado, let us begin. 
 
-"I love people like my love for humanity— trusting easily yet wearing a heart-guard. I trust people the same way I guard against them; yet another contradiction that enwraps my heart."
+Do I love her? Perhaps I do still love her. After all, I am still attached to her in some capacity. Yet it feels like this relationship has already endured its natural end. I remember the days where we spoke more than a couple of words. If I barely felt anything towards her, then ironically my focus would towards her– to let her down slowly. I've spoken with her to the point that there's nothing left. I don't know how, but it's been done.
 
-In 'Pondering...', I said that our desire to be loved is a flaw. I still stand by these words, as I wrote that Love is a strong drug for me– one that burns my soul. My solution to this was to avoid and quit it entirely, an inhuman one– one that must be reforged anew. 
+But, am I not here examining myself? My main priority here is to determine the future of my love, be it in her arms or elsewhere. If I still love her, then that love is not a strong one– else I would've postponed this for quite some time. 
 
-In 'Life of Vertical Ethics', I claimed to be a hopeless romantic desires love yet shuns it. I wrote that my ardent desire doesn't diminish me in any manner. I wrote that I do not reject love, but my standards are like the clouds above us– a height that can't be reached. 
+I would say that I don't love her enough, but I am a man– not a boulder. When I think of women, I like to think of them as paintings– portraits that I can glimpse at. I may not touch, nor feel, or stare, my senses bound by a covenant.  A "weak" love wouldn't survived these restrictions, so I can't write it off as such. As time flowed, it decayed with no supplement. When my Lord commands us to love him, does He not love his servants back? Once upon a time, I loved her. Now, what was once a flame is now an ember.
 
-In Refinement of Hatred', I said that love and hatred are two sides of the same coin– hatred being the stronger poison. 
+Do I want to fall back in love with her? No. I have no doubt that I could fall in love with her again, but I consciously reject that prospect. After all, even if I wait for four years– I don't think it's enough to grasp her hand in marriage. After all, both of us have already committed ourselves to the pursuit of knowledge. If time wasn't enough of an obstacle, I would have to persuade a family in a different ocean. How could I do so when I'm bound to my oath to the nation– to serve its constitution?
 
-In 'Ego and Death', I referred to this love as an echo of myself. A weight that struggles in shallow waters, one that only recognizes vows– to reject incompleteness.
+Now, how far do I want to sever her? To sever my commitment or to cut her off entirely? If it wasn't for our circumstances, then this chalice wouldn't be a poisoned one. But, that reality never made it– I already drank it. Not once, nor twice, but thrice. To take another sip is to transgress against myself. I fear that severing my commitment wouldn't be enough, but it appears that it'll suffice for now.
 
-In 'About me', I wrote that I love humanity– that my love for people is derived from it. That it's not a constant, it's weight being determined by the thoughts. 
+Our paths have already diverged for awhile now. Our long conversations have already turned into the occasional chatter, like we only talk to remind each other of our existence. I find that there's no sufficient justification to cut her off entirely, so I'll let the blade hover for now. Be it my hands or by time's fists, it will fall eventually– but I don't need to accelerate it. 
 
-In 'Judgement', I wrote that emotions are too intertwined to be used as counterbalances– that love serves as a forest for anger to burn on. 
+It was my pleasure to watch this flower prosper, and it shall be to my relief when it finally wilts– a sight that frees my eyes and her mind. Some would call this essay a heartless one, one that doesn't yield nor bleed. In a sense, they're right. I can't yield to my desires. I may write ideals, but I live in reality– a sight that forces me to remain sober. 
 
-I wrote that I'm loathe to write about this concept, to avoid future misunderstandings. It seems that I've taken a step back to vault over two.
+A sight that I'll have to reintroduce, as some of our delusions have violated the established order between life and death. We all have a beginning and we all have an end. As much as I'd like some things to never end, death shall be their end. You may reject this, but it is to no avail. After all, what power do you have over such fundamental concepts?
 
-In 'Companies', I consolidated my partial understanding of love derived from my words. I recognized love in it's individual capacity as a tonic. I also recognized it as a poison whose antidote remains elusive. 
+My friend, you won't be able to water that plant anymore. Sure, the soil may be soaked– but your flower has long since withered. You may look at it like it's alive, but we know the truth that you've concealed from yourself– the truth of its demise. Your idea remains, but she's gone in spirit. Sure, you stitched some petals back on– but they'll fall off again. You appear to be proud for that, and I don't blame you. That is your character, whether that be a boon or a curse. Your ongoing tale is a modern retelling of Sisyphus's myth. A story that gives you a choice time and time again. Your suffering is not by design, but by choice. 
 
-I said that my will alone can't stop me, but I must forbid myself regardless. My words were as follows:
+I regret to say this, but you've chosen the easiest way out– to appease. Do not mistake your acts to be compromise. Compromise is mutual, but the dead seldom have anything to offer. Our counsel proved to be ineffective as you refused to move on from that patch of soil.  You say that I am heartless, yet you don't even have a heart. You've given your heart to her, for her to mangle. 
 
-"I shall not knowingly condemn myself again– if I do not poison myself, I do not have to trouble myself with this detoxification. The ease of drinking this poison is mirrored by difficulty in acquiring a cure."
+I question your dignity, one that should've stood up in your place long ago to sever this ruinous bond. I question your idea of self-respect, a spine that should've stopped you from bending so low.  I question you, a man surrounded by people– have you forgotten how to live with others, or is this greed?
 
-In addition to this, I wrote that love in a collective capacity isn't a poison– but rather a weaker tonic. To love humanity, you must first acknowledge the one-sided nature of this sentiment– this acknowledgement being the in-built cure.
+You say that you're afraid of being alone. But my friend, you're already alone in this decision. Even common observer would feel implored to convince you otherwise, but who are we for you to listen to? I pity the others who are forced to bear witness to this, so give them blessings on my behalf. 
 
-The difference between them were written:
+You say that she's your best friend, but I believe that term to be mistaken. Somehow, she hung you up and tied strings to each of your limbs– turning you into a puppet. While some strings have already been cut, you're still tethered to her. If that is what your idea of friendship entails, perhaps it'd be better for me to remain a friend. 
 
-"While the first form of love is like that of a river, this form is akin to an ocean– each droplet representing an individual. If I love this ocean, then surely I would love its constituents– including myself. 
-...
-While this reward pales in comparison to the tonic of the former, it is a constant that sustains me– that alone is enough."
+You say that your room is full of the mementos you two made, but that is your inertia speaking for you. Has she hollowed your head to the point that you can't make more memories? Have you and her been joined by the hip for the past eighteen years? You of all people should find it easy to sever a bond with the amount of bonds you previously had.
 
-In 'Growth', I wrote that death is more certain than a soulmate. I'll eventually draw death, but the same can't be said for love. After all, does it even exist in pile that I've been drawing from? 
-
-In my eyes, love is still a form of providence– so who knows? It's already been allocated for each man, so how can I change what's already been decided? If I'm meant to have this love, then I'll surely get it– even if I reject it with all of my might. 
-
-My faith lies with my Lord, and I leave this to him– it's not like I could anything else. I tend to bleed emotion with every paper cut I incur, and so I've learnt to be careful. I can't stymie this flow entirely, so I'll redirect it here and there– to love their humanity that they represent.
-
-I may believe in the concept of love, but there's no destination for me. It's better to say that I've fallen in love with the concept, not with it's applications. A person's humanity is a type that I can love wholesale, as it's a platonic form of love. 
-
-In regards to romantic love, I'll reject the very thought until my hands are tied. I may be a romantic, but I lack these presumptions when it comes to people. Romance has become a death knell, so let me be damned before I ring it myself. 
-
-I barely have enough people as I currently stand, and I truly lack any thoughts that point in that direction. I may not be a monk, but skepticism and high standards have filled this deficiency of mine. 
-
-There's also the mantle of responsibility that a person unknowingly takes by loving. Heavy is the head that bears this crown. To accept a person's love is to accept responsibility in some way, and this weight is one that lies on both sides. 
-
-If the scholars of the past were afraid of failing these obligations to the point of dying unmarried– then how could I bear this crown? Yet some of us wear this crown as if it were a jester's cap, to be worn and tossed like a toy of joy. 
-
-I know that I can't reject this forever, and I accept this charge. If someone can thoroughly defeat my will in this manner, then I'm free. Be it by will, to sway my own– or by the virtue of existing, my virtue turning inside out.
-
-Now, I am particularly cautious when it comes to my understanding of a person's intent. I loathe ambiguity just as the blind loathe their ears being shut. As I cannot act on implicit observations, I downgrade their intent itself. 
-
-After all, delusions breed in this space of interpretations– so it's better for me to temper these sights. 
-
-In the same vein, if I am to act– then I'd rather be direct. Let the Heavens bear testimony to the words that I write on this day. 
-
-I am not bound by any red strings, nor shall I interfere in the strings of another. I may love people, but that love is humanity's love. Do not mislead yourselves into thinking I have a romantic interest towards you. I've nothing of the sort, and you cannot shake my will. So, don't force my hand– lest I sever some more threads.
-
-I loathe this type of misunderstanding even more than ambiguity, an affront to both flesh and spirit. My conduct is by no means a viable method to gauge my intent, as I uphold the standard of impartiality precisely to ward this off.
-
-I may do anything for others without a single iota of romantic love, from living to dying. But that is a matter of pride intermixed with an encompassing sense of love, one that veers on verge of noblesse with the obligations it maintains. 
-
-If I loved another like how a romantic should, then words would be useless. I've wrote all of this alone, so how could these chains bind me against my anchor. It's ironic, that I become less restrained after drawing this card of cups. 
-
-Now, I'd love to write more about this card– but that'd be daydreaming. I shall not limit myself, as a narrow mind only serves as a token of disrespect. Let their existence move my pen, rather than my fantasies. 
-
-Until then, I pray that my heart remains like steel. I may melt, but I won't yield so easily.
-
-
-
-
+I wish you well on drinking your poison, since it doesn't look like you'll be stopping anytime soon. Whether this ends our friendship or not, I shall not renege on a single word that I've written here. My voice is no different than those who advised you in the past, so I don't expect anything. Your tale mirrors a path inscribed in my essay, thus a record must be established. 

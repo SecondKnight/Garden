@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: index
 draft: true
 date: 05-09-2026
 ---
