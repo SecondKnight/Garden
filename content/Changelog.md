@@ -131,4 +131,26 @@
 	- Restored [[42-Letters]] and rewrote the sections after the main part.  
 - 08-08-2026
 	- Finished [[45-Silence]] 
-	- Removed 
+	- Removed ???. Today is the 27th and I have no idea what my former self had in mind. 
+- 08-27-2026
+	- Updated [[Knowledge/Computer Science/index| Bachelors]]
+		- Started digitalization of notes: 
+			- EE1024: **Complete**
+			- ET2905: **Complete**
+			- CS2400 & CS 2400L: **In progress**
+			- MATH1300: **Paused.** Will start once I complete the following two objectives. 
+				- Learning latex. 
+				- Actually understanding the course content. 
+			- All of these notes will be actively worked on and maintained until I pass. After I pass this semester, these notes will remain– but they'll be deprioritized. After all, I'll be working on the next iteration. 
+			- Reminder for my future self: Group these courses into folders based on semesters. 
+	- Plans for [[Knowledge/AFROTC/index|AFROTC]]
+		- AF regulations prohibit Cadets from sharing any information in regards to AFQOT. This is oversimplified, but suffices for a changelog– so I can't mention that in my journal. 
+		- To avoid the chance of me shooting my own foot in regards to information, I will add a password and will restrict access to fellow cadets in the AFROTC program. 
+		- I will also rewrite the index page as it sounds too similar to what I've written here. 
+	- Removed most of the non-publishable files I had from this vault, by extension this website.
+		- This means that they are no longer being stored in the GitHub repository itself, mitigating a potential risk. 
+	- Updated quartz plugins
+		- **syntax-highlighting**'s build failed. No need to investigate further as it's marginal to the website. 
+	- Finally changed the graph link colors
+		- Took me over an hour to realize that I can't make it specific to the graph itself.
+		- Royal purple wasn't my first choice, but the tables aren't readable if I make it a light color. 

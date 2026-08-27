@@ -46,3 +46,7 @@ You say that she's your best friend, but I believe that term to be mistaken. Som
 You say that your room is full of the mementos you two made, but that is your inertia speaking for you. Has she hollowed your head to the point that you can't make more memories? Have you and her been joined by the hip for the past eighteen years? You of all people should find it easy to sever a bond with the amount of bonds you previously had.
 
 I wish you well on drinking your poison, since it doesn't look like you'll be stopping anytime soon. Whether this ends our friendship or not, I shall not renege on a single word that I've written here. My voice is no different than those who advised you in the past, so I don't expect anything. Your tale mirrors a path inscribed in my essay, thus a record must be established. 
+
+
+
+
