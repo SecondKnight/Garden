@@ -154,3 +154,6 @@
 	- Finally changed the graph link colors
 		- Took me over an hour to realize that I can't make it specific to the graph itself.
 		- Royal purple wasn't my first choice, but the tables aren't readable if I make it a light color. 
+- 08-28-2026
+	- It's me again, changed the graph link colors again to align better with the theme. 
+	- 
