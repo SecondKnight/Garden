@@ -47,6 +47,13 @@ You say that your room is full of the mementos you two made, but that is your in
 
 I wish you well on drinking your poison, since it doesn't look like you'll be stopping anytime soon. Whether this ends our friendship or not, I shall not renege on a single word that I've written here. My voice is no different than those who advised you in the past, so I don't expect anything. Your tale mirrors a path inscribed in my essay, thus a record must be established. 
 
+A record of a man who fell from grace. A record of a man who knowingly drinks such vile liqueur, willfully aware of the harm he brings himself– the anguish that others feel at this sight. You told me stories of your parents, of their constant conflicts. Tell me, do you not see the similarities between that and your own plight? I know well that you loathe it, so why are you so hellbent on continuing this– to double it for the next generation? 
+
+You may deny this. But it shall remain indelible, even if you tried to twist my words with all your might. That, my friend is a promise that I can keep.
+
+
+Do what you will with this. Restraint is a virtue, and this is the result of it. Be mindful of the fact that I have yet to express my utter contempt against **her**. 
+
 
 
 

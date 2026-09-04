@@ -3,7 +3,7 @@ title: Legalese
 draft: false
 date: 07-01-2026
 tag: 
-- knowledge/legal 
+- knowledge
 ---
 
 I may be a computer science major, but law and historical traditions are interests of mine. I can see myself studying law and political science in another timeline, but I already made my choice in this one. But you're not here to read about my choices– even if this note is the result of one. This page serves as the anchor for all of my explanations and yapping when it comes to **legal** knowledge– not **political**. This is the present, I leave this for my future self to write.

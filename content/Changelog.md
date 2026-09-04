@@ -156,4 +156,11 @@
 		- Royal purple wasn't my first choice, but the tables aren't readable if I make it a light color. 
 - 08-28-2026
 	- It's me again, changed the graph link colors again to align better with the theme. 
-	- 
+	- Enabled a preview card for links, should be dynamic. 
+	- [[Knowledge/Computer Science/index|Bachelors]]
+		- EE1024: Will be postponed until I learn the syntax for Latex. 
+- 08-30-2026
+	- [[Knowledge/AFROTC/index|AFROTC]]
+		- Added [[Week0]] and [[Week1]]
+		- Implementing password protection to limit access. If I'm going to suffer, y'all better suffer **with** me if you to look through my perspective. 
+		- Declared my intent to gather the journals of other cadets eventually. I too want to learn about their perspectives. I believe that their windows will be insightful and will prevent my own window from overshadowing a future cadet's actual experience. 
