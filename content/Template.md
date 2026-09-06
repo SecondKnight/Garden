@@ -27,7 +27,7 @@ Member of Student Council, 2024-2025 (India)
 
 At the time of this submission, my current time commitments are as follows: AFROTC, Kendo Club, AI Club. Some commitments haven't been finalized yet, so I'll refrain from disclosing them. I will work to minimize the chances of any scheduling conflict. 
 
-For the past three months, I've been in an IT internship in a team of five interns. So part of our job was to unox
+
 
 
 As I've been working in a team of five for the past three months, one of our tasks was to prepare over 400 Chromebooks for deployments. The way we worked this was by redistributing the Chromebooks into four different piles.

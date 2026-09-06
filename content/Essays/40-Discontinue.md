@@ -3,6 +3,7 @@ title: Discontinue
 draft: false
 date: 04/13/2026
 ---
+
 I am bound to my words, and so I am obligated to amend them constantly. It's not a subject up for debate, regardless of what it documents.
 
 In 'Thoughts#2', I wrote about a bunch of projects and ideas that I had. Unfortunately, I can't commit to all of them. I've already missed the deadline for some essays and I don't have enough time to write the rest.

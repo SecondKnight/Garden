@@ -164,3 +164,10 @@
 		- Added [[Week0]] and [[Week1]]
 		- Implementing password protection to limit access. If I'm going to suffer, y'all better suffer **with** me if you to look through my perspective. 
 		- Declared my intent to gather the journals of other cadets eventually. I too want to learn about their perspectives. I believe that their windows will be insightful and will prevent my own window from overshadowing a future cadet's actual experience. 
+- 09-06-2026
+	- Cups
+		- Changed the name to align better with the essay itself. The title 'Cups' was chosen due to the symbolism for love that I used in a prior draft. 
+		- Also changed it to purposefully break the links that I sent in the past. It's time to close that window of transparency. 
+	- [[Knowledge/AFROTC/index|AFROTC]]
+		- Added [[Week2]]
+		- Put all of the notes into **AS100**. Next year, I'll make **AS200**.
