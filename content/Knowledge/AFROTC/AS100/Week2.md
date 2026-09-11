@@ -60,6 +60,10 @@ I ate nine loafs of bread, a good amount. One day, I shall eat an entire bag. Wi
 
 Within the next two meetings, I plan on pitching this idea of a journal archive to C/Renkas– provided that I have enough time. After all, I'm a busy man. It's a lesser priority considering that I have four years. And in those four years, I will most certainly climb up. I can't fall if I'm still on the ground. 
 
+<img src="/images/lex-luthor-meme.webp" alt="Example" width="200">
+
+> My next counselling with C/Renkas
+
 
 [[Knowledge/AFROTC/index|index]]
 

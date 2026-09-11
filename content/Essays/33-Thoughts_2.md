@@ -7,7 +7,7 @@ This should be the final piece of this mini-project of mine.
 
 The first project that I has plans on writing is going to be called 'Stained Glass'. At it's core, it's about specific people. I may create this shard, but it remains in limbo– between reality and my thoughts. I have no claim over it as it's meant to capture others, an exception from my usual norm. 
 
-I want to tie concepts with people, since it sounds like a fun project and a good learning opportunity for me. It's stained since I'm coloring it with their shade. It's the one I referred to in 'Companies', so you might have to read some of it to gain a full understanding of it. 
+I want to tie concepts with people, since it sounds like a fun project and a good learning opportunity for me. It's stained since I'm coloring it with their shade. It's the one I referred to in [[27-Companies|'Companies']], so you might have to read some of it to gain a full understanding of it. 
 
 Originally, I was going to create an integrated imagery, but that poses it own problems thanks to interpretation. It's supposed to be implicit, but that leaves room for ideas that I don't like– making it explicit wouldn't make it fun. After all, half of the fun is in understanding.
 
@@ -15,11 +15,11 @@ In the few times that I focus my writing on specific people, I want to paint the
 
 There's also the problem of my writing, as I don't want to sacrifice my normal writing flow for the sake of this project. I remember how the Military Guide messed that up for me. My solution for this is that I'll add these concepts into my list of ideas and prioritize them once I find a suitable person for me to do.
 
-In 'Identity', I mentioned my oath of anonymity towards the end– I didn't forget that. It's going to be... interesting to balance these two parts. I have to write enough about them for this glass to be stained, but I can't let their motifs be visible. 
+In [[32-Identity|'Identity']], I mentioned my oath of anonymity towards the end– I didn't forget that. It's going to be... interesting to balance these two parts. I have to write enough about them for this glass to be stained, but I can't let their motifs be visible. 
 
-In that sense, it's going to be an experiment for me. There's another project that I have in mind, but I'm not sure if I'll commit to it or not. In 'Ego and Death', I said that I would keep my words neutral in terms of religion– to minimize bias and avoid opening pandora's box. 
+In that sense, it's going to be an experiment for me. There's another project that I have in mind, but I'm not sure if I'll commit to it or not. In [[11-Ego and Death|'Ego and Death']], I said that I would keep my words neutral in terms of religion– to minimize bias and avoid opening pandora's box. 
 
-In 'Lumen', I upheld my bond– making sure that my bias wouldn't cover my eyes. In a few weeks from now, I plan on explaining certain concepts of my religion and write foundational knowledge about it. 
+In [[24-Lumen|'Lumen']], I upheld my bond– making sure that my bias wouldn't cover my eyes. In a few weeks from now, I plan on explaining certain concepts of my religion and write foundational knowledge about it. 
 
 It'd serve as a reeducation for me, since I do my research whenever I write. It's been awhile since I visited those topics and it'd also help me deal with my bias. In the past, I used to argue and debate about my religion, as people tend to practice it in ways that either go against it or contradict it. 
 

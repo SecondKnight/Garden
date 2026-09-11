@@ -171,3 +171,10 @@
 	- [[Knowledge/AFROTC/index|AFROTC]]
 		- Added [[Week2]]
 		- Put all of the notes into **AS100**. Next year, I'll make **AS200**.
+- 09-10-2026
+	- Images
+		- Figured out how to add images on my webpages. [[Week2]] is the first one that gets it, but I'll probably add more images to my journal. 
+		- Created an images folder to store them. 
+	- [[Knowledge/AFROTC/index|AFROTC]]
+		- Reorganized [[AST1100]], considering on whether I should get rid of the page and incorporate its content into the weekly entries.
+			- WIP

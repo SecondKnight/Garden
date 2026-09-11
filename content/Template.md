@@ -25,7 +25,7 @@ As of now, I have no ideas for the panel as I've had no experience with their op
 
 Member of Student Council, 2024-2025 (India)
 
-At the time of this submission, my current time commitments are as follows: AFROTC, Kendo Club, AI Club. Some commitments haven't been finalized yet, so I'll refrain from disclosing them. I will work to minimize the chances of any scheduling conflict. 
+At the time of this submission, my current time commitments are as follows: AFROTC, University, AI Club. Some commitments haven't been finalized yet, so I'll refrain from disclosing them. I will work to minimize the chances of any scheduling conflict. 
 
 
 
