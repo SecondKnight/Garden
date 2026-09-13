@@ -14,6 +14,17 @@ But like I said before, I am not writing a static collection. This body of essay
 Oftentimes, we treat loneliness like a short-term condition– one that'll go away once we spend time with people. To a certain extent, it's true. But, I find that it's more akin to a chronic condition– one that'll persist throughout a lifetime. 
 
 
+Being alone 
+the rights of a human being 
+Etchberger
+How I no longer feel the urge to write
+Me wanting love 
+
+
+E
+
+
+
 
 
 
