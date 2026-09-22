@@ -178,3 +178,9 @@
 	- [[Knowledge/AFROTC/index|AFROTC]]
 		- Reorganized [[AST1100]], considering on whether I should get rid of the page and incorporate its content into the weekly entries.
 			- WIP
+- 09-20-2026
+	- [[Knowledge/Legalese/index|Legalese]]
+		- Added [[Dixon v. Alabama State Board of Education]]
+	- [[Knowledge/AFROTC/index|index]]
+		- Added [[Week4]]
+	- Updated quartz and plugins
