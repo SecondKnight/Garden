@@ -1,6 +1,7 @@
 ---
 title: Flight Meeting: 9-22-2026
-draft: true
+draft: false
+unlisted: true
 date: 09-22-2026
 password: WOOF
 ---
@@ -11,7 +12,7 @@ Memos: At least make the reasons individualize
 ## Flight Goals: 
 Flight goals 2 & 3 have been recalled, due to squadron commander revoking approval. New memo isn't necessary for resubmission of flight goals A and B. C/1LT Renkas recommended bumping GPA requirement for A to 3.5. In terms of flight goal B, raise the score requirement to 85 for AS100s
 
-Flight Goals 1 and 2 have been recalled. Squadron Commander revoked approval and recommended that 
+Flight Goals 1 and 2 have been recalled. Squadron Commander revoked approval and recommended that:
 - Goal A: Raise the GPA goal to 3.5
 - Goal B: Raise the PFRA goal of AS100s to 90
 
