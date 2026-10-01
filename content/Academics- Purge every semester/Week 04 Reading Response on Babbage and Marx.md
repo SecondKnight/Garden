@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Before we divine the causality between Charlies Babbage’s work and Adam Smith's principles, we must first write these principles in his own words. 
 
 Adam Smith said that "The great increase in the quantity of work, which, in consequence of the division of labour, the same number of people are capable of performing, is owing to three different circumstances: 

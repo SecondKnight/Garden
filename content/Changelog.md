@@ -184,3 +184,15 @@
 	- [[Knowledge/AFROTC/index|index]]
 		- Added [[Week4]]
 	- Updated quartz and plugins
+- 09-30-2026
+	- [[Knowledge/Computer Science/index|Computer Science]]
+		- Deliberating on whether I should create notes of concepts instead of trying to map my notes with my courses. 
+		- Two main causes behind this:
+			- The most optimal way to capture content for some courses isn't by computer, but by handwritten notes.
+				- I could remedy this by getting a tablet, but I have a finite sum of money that wouldn't be renewing itself anytime soon.
+			- Some courses simply don't allow computers to be used for the purpose of note-taking. 
+				- I could power through and transcribe my notes, but I'm so tired. My body wants rest but I can't. 
+	- [[Knowledge/AFROTC/index|AFROTC]]
+		- Added Delta subfolder to organize content pertaining to my Flight.
+			- Contents of it have a different password from the AS100 notes, specifically for my Flight members. Whether I tell them of its existence or not is another story.
+		- Added Technical subfolder to organize content pertaining to technical operations that occur in the Detachment. Essentially a place for fellow cadets to reproduce solutions to issues or problems that I diagnosed. Looking at them, It's my continuity plan for when I inevitably go into the night.

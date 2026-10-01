@@ -77,3 +77,52 @@ I have nothing to say to my future self, as I've already written enough to him. 
 
 
 
+---
+
+How was the Corps of Engineers’ technical authority and policy influence challenged in political conflicts over any two (you pick) of the following examples: i) the Chesapeake & Ohio Canal, ii) the Washington Aqueduct, or iii) Mississippi River navigation/flood control? How did these conflicts reflect the varied cultural and technical influences that informed the historical development of the engineering profession in the United States in the 18th and 19th centuries?
+
+1. Professionalization of Engineering:
+   
+From the Mexican American War, both the Whigs and the Democrats sought to use West Point to advance their platforms. When President Taylor skirted a waterway issue, the Whigs quickly slandered his name in the press with that information. At the same time, the up-and-coming Abraham Lincoln gave a stirring address to the house, asking Congress how they'd decide the most important improvements.
+
+At the Mississippi River, the Corps of Engineers authority was challenged when the War Department commissioned two reports; One made by Charlies Emmet, a builder who wove foreign ideas into his plan, and one made by topographers Humphreys and Abbot– West Pointers whose ideas were more familiar. 
+
+Multiple engineers scoffed at Emmet's idea and remained skeptical of it for decades. On the other hand, Humphrey's report received congressional funding and was weighted heavily in the project. Even after he was marred by scandals, he still received adequate funding for the River– in part thanks to the political connections he cultivated with the Whigs.  
+
+Thanks to this, the military's traditions were further entrenched into the engineering culture of the US and served as part of West Point's rise to prominence. Throughout these times, the Democrats were against these projects due to their interpretation of the Constitution. In their eyes, they believed that the Federal Government was overreaching and that this should be left to the states. Ofcourse, they made exceptions when it benefited them, but they still pushed the Corps closer towards the Whigs who held the opposite beliefs. They thought that the federal government should be involved in these works and used the Corps as their Vehicle.
+
+Although the states tend to be more aligned with the idea of 'state rights', they welcomed the Corps whenever they needed help. While the Army Engineers didn't build the Chesapeake and Ohio Canal, they surveyed it and handed their work over to another party. Even when they're bound to their role, the Corps of Engineers demonstrated their flexibility. Even when don't have control of the full technical process, they were the ones who mapped out the start and end of these works.
+
+---
+
+Manchester was characterized by its quick growth and its compact nature, creating entire factories (Misa Pg.78) out of anyone who can work– be it child, man, or woman. As this system of workers was continuously honed, machines were introduced to the glee of factory owners and the despair of the common workers. These machines displaced the people yet ensured that productivity would only go up– not down. Ofcourse, the disgruntled workers quickly struck  back with strikes and break-ins– but that too became part of the norm. Just another variable for these businessmen to factor into the math that fills their pockets.
+
+In contrast, Sheffield still relied on traditional labour more than their Manchester brethren. They preserved their male craftsmen and relied on their high skill ceiling. Their organizational model was more akin to a network of workshops, with manufacturers splitting each process with these contracted workshops. This was considered to be the most efficient way to build specialized products, by delegating each process to hyper-specialized places. 
+
+Both Sheffield and Manchester were molded by their environments, both being advantageous to their respective industries. Apart from that, workers in these cities still suffered from the common consequences of industrialization: long working hours, dangerous workplaces, and crowded living conditions. 
+
+---
+
+Case D – Consumer Technology: How can we analyze the design, production, promotion, use, or regulation of consumer technology in terms of the social values that inform these activities? Assess using two (you pick) of the following three examples of technological innovation from the early and late twentieth centuries: 1) contraceptives 2) appliances for the farm home 3) the Volvo YCC. To what extent was the technology in question “gendered,” and how would that have affected the ways in which it was conceived, marketed, and/or utilized? Beyond gender, are any other social categories relevant to your analysis?
+
+
+For the sake of analysis, let's take contraceptives and the Volvo YCC as our two examples. 
+
+When it came to contraceptives, birth control was primarily a burden on men with the use of condoms until the focus shifted to women– the most prominent example of this being the oral pills. The very design of this was gendered, for both men and women.
+
+The use of birth control itself was also affected by a person's class. Higher classes were more educated about these concepts and thus had a different experience compared to more destitute folk in the past.
+
+From start to end, the Volvo YCC was gendered– courtesy of the design team. Their literal goal was to meet the expectations of women first. Exceeding the expectations of men was merely a consequence of this way of thought. 
+
+The demographics that bought these cars also gravitated towards class with this project targeting the premium segment. 
+
+
+
+
+
+--- 
+
+- [ ] 🔼 Essay on Feminism
+- [ ] 📅 2026-09-28 Time Management Schedule
+- [ ] 
+
