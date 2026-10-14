@@ -6,10 +6,6 @@ date: 10-07-2026
 
 # Detachment 650's Tech Log
 
-## Primer
-
-This log creates to create an accurate record and timeline in regards to Devices owned by **AFROTC Det 650**. 
-
 
 - 10-06-2026
 	- **Nintendo Switch**
@@ -23,3 +19,13 @@ This log creates to create an accurate record and timeline in regards to Devices
 		- To create a QR code that leads to this folder and print it out. Printing these logs is practically infeasible, as each edit would require another print– quickly piling up in terms of time and resources. It'd be better if I leave the QR in either the lounge or the Flight Sim room for others to catch up. 
 		- To create another resource page for more general tech issues, like registering devices to the Guest Network. 
 		- Game night. May consider a formal proposal to C/Whithey so it'd count as a Morale Event. 
+			- ...
+- 10-09-2026
+	- **Nintendo Switch**
+		- Observed that the switch was giving proper output to the Roky TV. Additionally, it's not the first time that the HDMI cable has suffered this from this type of defect. 
+		- Recommendation is to replace the HDMI cable in the future. For now, it suffices for the Switch.
+		- Resolved issue by unplugging HDMI from the Switch's dock and plugging it back in.
+	- [[Flight Simulator]]
+		- New issue exists, make a note to ask C/Fawcett about it.
+		- Ask C/Foster about the VR headset and look into getting it operational if it's not.
+			- If the VR headset is operational, then I'll update [[Flight Simulator]] with the relevant documentation if needed. 

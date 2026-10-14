@@ -192,4 +192,4 @@ As always, congratulations for reaching the end of this piece.
 
 References: 
 [[31-Doubt]]
-[[index]]
+[[Publishing/Essays/index]]

@@ -61,3 +61,6 @@ In [[11-Ego and Death|Ego and Death]], I wrote that my writing would remain neut
 Now that I face less restrictions and developed a better understanding on these topics, its new interpretation is this: "My words shall neither promote a religion nor shall it disparage a religion." In addition to this, I move to strip this provision of its binding nature– to turn it into a guideline that most of my works abide by. 
 
 The definition of 'Religion' is board and far-reaching, so I can't let my hands be overly affected by this. I don't have anything else to say, so lets end this off. As always, congratulations for reaching the end of this essay.
+
+[[24-Lumen]]
+[[]]

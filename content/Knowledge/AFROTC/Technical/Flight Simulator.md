@@ -42,3 +42,5 @@ Even when user is running DCS on flat-screen and is not using the headset, it st
 **Tested this solution with a single flight, no jitters occurred any time during the flight– a possible indicator for success. More testing required.** 
 
 
+## 
+

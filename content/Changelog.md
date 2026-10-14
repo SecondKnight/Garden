@@ -30,7 +30,7 @@
 	- Created [[Credits]]
 	- employed a combination of wikilinks and markdown marks
 - 05-09-2026
-	- Added the spreadsheet into [[index]]
+	- Added the spreadsheet into [[Publishing/index]]
 	- Retrospectively began to reference prior works with each other. 
 	- reconfigured global graph view to make it more visually appealing. 
 		- Changed settings that affected graph behavior 
@@ -50,7 +50,7 @@
 		- If people are going to read my works and want a reminder. If you like my works this much, then just ask me. 
 		- Keep in mind, this is a lifetime project– it's easy for this to become messy.
 - 05-23-2026
-	- Changes to [[index]]
+	- Changes to [[Publishing/index]]
 		- Rewrote the entire body
 		- Introduced a table of contents. 
 	- Changes to [[Credits]]
@@ -101,7 +101,7 @@
 	- Folders created with introductions
 		- [[Knowledge/index|Knowledge]]
 			- Added [[Knowledge/Legalese/index|Legalese]]
-			- Added[[Knowledge/Computer Science/index|Computer Science]]
+			- Added[[Publishing/Knowledge/index|Computer Science]]
 			- Added [[Knowledge/AFROTC/index|AFROTC]]
 			- Added an introduction to [[Essays/index|Essays]]
 		- [[Scraps/index|Scraps]]
@@ -126,14 +126,14 @@
 	- Redacted PII up to the 12th essay.
 - 07-30-2026 
 	- Taking [[42-Letters]]down for maintenance. 
-	- Fixed the name of  [[Knowledge/Computer Science/index|index]] 
+	- Fixed the name of  [[Publishing/Knowledge/index|index]] 
 - 08-01-2026
 	- Restored [[42-Letters]] and rewrote the sections after the main part.  
 - 08-08-2026
 	- Finished [[45-Silence]] 
 	- Removed ???. Today is the 27th and I have no idea what my former self had in mind. 
 - 08-27-2026
-	- Updated [[Knowledge/Computer Science/index| Bachelors]]
+	- Updated [[Publishing/Knowledge/index| Bachelors]]
 		- Started digitalization of notes: 
 			- EE1024: **Complete**
 			- ET2905: **Complete**
@@ -157,7 +157,7 @@
 - 08-28-2026
 	- It's me again, changed the graph link colors again to align better with the theme. 
 	- Enabled a preview card for links, should be dynamic. 
-	- [[Knowledge/Computer Science/index|Bachelors]]
+	- [[Publishing/Knowledge/index|Bachelors]]
 		- EE1024: Will be postponed until I learn the syntax for Latex. 
 - 08-30-2026
 	- [[Knowledge/AFROTC/index|AFROTC]]
@@ -185,7 +185,7 @@
 		- Added [[Week4]]
 	- Updated quartz and plugins
 - 09-30-2026
-	- [[Knowledge/Computer Science/index|Computer Science]]
+	- [[Publishing/Knowledge/index|Computer Science]]
 		- Deliberating on whether I should create notes of concepts instead of trying to map my notes with my courses. 
 		- Two main causes behind this:
 			- The most optimal way to capture content for some courses isn't by computer, but by handwritten notes.
@@ -199,4 +199,34 @@
 - 10-02-2026
 	- [[Scraps/index|Scraps]]
 			- Added [[Military Guide]]
-	- 
+- 10-14-2026
+	- [[Knowledge/index|Knowledge]]
+		- Moved subfolder ```Computer Science```'s landing page to knowledge. Links have been auto-updated to reflect that change. 
+		- [[Publishing/Knowledge/index|Comp. Sci]]
+			- Formalizing my discontinuation of this due to its infeasibility. The following notes will be archived to[[Publishing/Scraps/index|Scraps]] as I eventually implement the idea written on 09-30-2026. 
+				- [[CS2400]]
+				- [[EE1024]]
+				- [[ET2905]]
+	- Graph
+		- Looked into using local LLMs to automate link creation between different notes. 
+			- Obsidian Plugins:
+				- Open Connections
+				- Semantic Auto-Linker
+			- LM Studio (Local Server):
+				- text-embedding-jina-embeddings-v4-text-retrieval
+				- text-embedding-nomic-embed-text-v1.5
+		- Results were unsatisfactory, so I plan on doing it manually once I have more time. 
+		- Link categories that need to be elevated: [[Publishing/Essays/index|Essays]], [[Publishing/Knowledge/AFROTC/index|AFROTC]]
+	- [[Publishing/Knowledge/AFROTC/index|AFROTC]]
+		- Made a landing page for the folder. 
+		- Used HTML to link my email along with a pre-set subject. 
+		- Created [[Tech Log]] & [[Resources]]
+			- [[Resources]] is for general knowledge, resources for specialized matters like the [[Flight Simulator]] can be found in their respective pages. 
+				- Currently thinking about adding C/Renkas' Land Navigation game to [[Resources]]. Will need to ask him about it first. 
+			- [[Tech Log]] documents everything I've done and plan on doing in this regard. 
+		- [[Delta]]
+			- Created a landing page. 
+			- Added [[FT10-13-2026]] with credits to note-taker. 
+	- [[Publishing/Essays/index|Essays]]
+		- Index needs to be written oncemore. 
+		- Added [[46-Condition]]. 

@@ -22,3 +22,4 @@ Something that I find interesting is that some shards of a person can contradict
   
 Would split personality disorder be a person who lacks the ability to control the shards of their personality?
 
+]]

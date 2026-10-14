@@ -13,4 +13,4 @@ I am bound by an honor code and most of my obligations require me to remain in g
 
 At the same time, I am not overtly concerned about this. We live in a high-trust society. I cannot ask for your confidence and withhold my own– so we'll see. If that trust gets misplaced, it'll get progressively harder to others to access these notes. 
 
-Apart from that, if you have any concerns, queries, or any additions for these notes– just shoot me an email at zw497925@ohio.edu. 
+Apart from that, if you have any concerns, queries, or any additions for these notes– just shoot me an email at **Placeholder**

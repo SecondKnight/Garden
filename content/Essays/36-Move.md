@@ -74,4 +74,4 @@ For now, I have some more writing to do. So as always, congratulations on reachi
 [[16-Censor's Identity]]
 [[26-Life]]
 [[35-Growth]]
-[[index]]
+[[Publishing/Essays/index]]

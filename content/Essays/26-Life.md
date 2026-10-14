@@ -145,4 +145,4 @@ As always, congratulations on reaching the end of this piece.
 [[17-Thoughts_1]]
 [[22-Judgement]]
 [[24-Lumen]]
-[[index]]
+[[Publishing/Essays/index]]

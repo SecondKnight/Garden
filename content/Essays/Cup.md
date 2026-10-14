@@ -51,8 +51,9 @@ A record of a man who fell from grace. A record of a man who knowingly drinks su
 
 You may deny this. But it shall remain indelible, even if you tried to twist my words with all your might. That, my friend is a promise that I can keep.
 
+Do what you will with this. Restraint is a virtue, and this is the result of it. Be mindful of the fact that I have yet to express my utter contempt against **her**. Now, begone. You've exceeded your time here and I've spent too long dwelling on this shadow. 
 
-Do what you will with this. Restraint is a virtue, and this is the result of it. Be mindful of the fact that I have yet to express my utter contempt against **her**. 
+
 
 
 

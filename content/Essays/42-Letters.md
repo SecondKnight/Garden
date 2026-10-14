@@ -4,7 +4,7 @@ draft: false
 date: 05-23-2026
 ---
 # Main
-In October, I had the desire to write for others. That manifested in the form of 'Stained Glass', an idea raised in[[33-Thoughts_2|Thoughts-2]]– formally buried in [[40-Discontinue|Discontinue]].
+In October, I had the desire to write for others. That manifested in the form of 'Stained Glass', an idea raised in [[33-Thoughts_2|Thoughts-2]]– formally buried in [[40-Discontinue|Discontinue]].
 
 I snuffed it out with my own hands on February 16th, the day I began my letter-writing– my final project for this year. It's also the date when I went on hiatus– with the occasional essay escaping.
 
@@ -72,7 +72,7 @@ These words are enough for me to act, so I won't be barking. A truth that my wri
 
 I may have misgivings with my path, but I'm not one to renege my words.  I've made my choice, and so I leave the rest in your hands. Don't forget, inaction is a choice in itself– time doesn't pause for anyone. 
 
-I may like you, but that doesn't mean that I'll slow my hand– I'm just waiting. I hereby retract the words I wrote in [[22-Judgement| Judgement]], my claim that my definition of petty was misconstrued. It's time to accept reality, as this weary soul remembers those slights and acts of kindness alike. 
+I may like you, but that doesn't mean that I'll slow my hand– I'm just waiting. I hereby retract the words I wrote in[[22-Judgement| Judgement]], my claim that my definition of petty was misconstrued. It's time to accept reality, as this weary soul remembers those slights and acts of kindness alike. 
 
 I wrote these letters with good intentions, so let me finish this essay in the same manner. I also wrote them with graduation in mind, but it's inevitable that they become a form of farewell. Those two words go hand in hand and I've kept them estranged for long enough. 
 

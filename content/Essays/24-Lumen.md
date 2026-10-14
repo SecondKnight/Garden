@@ -46,7 +46,7 @@ A person may be ignorant of their faith yet remain true to it– their personal 
 
 The field of Religion is a rigorous field of knowledge– an exemplary torch of inheritance left behind by generations of Scholars. Men who lived and died by way of penship– to continuously study their religion. 
 
-This field of academia is one that mandates accurary– an accuracy that led its authors to collect chains of narrations, to create a new discipline to discern between truth and falsehood with this chain. 
+This field of academia is one that mandates accuracy– an accuracy that led its authors to collect chains of narrations, to create a new discipline to discern between truth and falsehood with this chain. 
 
 Men who traveled continents to complete their research– a dedication that exhausted their lives. A torch whose passionate nature remains centuries after their deaths– for these interpretations and understandings were tested against one another, to further determine its truth. 
 

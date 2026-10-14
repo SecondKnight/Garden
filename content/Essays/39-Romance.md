@@ -104,5 +104,5 @@ It’s time to wrap this up, and so– as always, congratulations on reaching th
 [[23-Trifecta]]
 [[26-Life]]
 [[29-Tones]]
-[[index]]
+[[Publishing/Essays/index]]
 

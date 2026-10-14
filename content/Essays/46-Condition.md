@@ -1,13 +1,13 @@
 ---
 title: Condition
-draft: false
+draft: true
 date: 09-25-2026
 ---
 
 Another contradiction has manifested itself. I am alone, but not. I may be a part of them, but I can't say the same for myself. here are only so few things that I truly have a part in. 
 
 I am Black. My blood and skin color being proof of this. Yet I find myself estranged from my own skin. If I knew no better, then I would ask if I was the wrong type of black. But, I know my people exist somewhere– places where I can't see. It's a shame, but I won't change the shade of my skin just to fit in. 
-
+	
 I am also Indian, my likeness being proof of this. Its a bit ironic, that I look like either race but not both. When I came back from India, I got hit with a subtle question. Some of us claim to be Indian just from our blood. They didn't breathe in our native pollution, but their compass points them back to us. In my eyes, they are like biryani without the masala– blood established legitimacy, not heritage. If you don't practice this heritage in some way, or haven't experienced India– are you truly Indian? Or just an imposter wearing our skin?
 
 I am Muslim. Not by blood, but by birth– a covenant that I have to yet to renege from. I may invoke it in the same breath as my linage, yet one would do well to remember. Just as you call Christianity as a religion, we aren't any less– our faith being its own object. Some call us an ethnicity as if we all hail from the same land. I have brothers from the cities of Damascus to New York, from Hyderabad to Mogadishu.   
@@ -48,11 +48,36 @@ At this point, when I write the word 'You'– I'm writing to another version of 
 
 I've begun to realize something. Elsewhere, I can say that I'm isolated. In this space of words, I can write that I am alone. Even if I'm isolated, the fact remains that I still interact with others and experience that surface level of affinity. In this world of words, only I and God exist– the rest just flicker once. 
 
+Once again, I find myself not wanting to know of this pain– to not know my heart's urges. Yet here I am, cursed to feel every single inch writhe from this pain. I live in a place that chokes my spark, leaving me as a lethargic shell of what I once was. I want my energy back, the drive that propelled me forward– yet its my spirit that forces me forward. My body is just a machine forced to move forward, a fate that I resent– one that I want to trample beneath my feet. 
+
+Lord. I am tired. This servant is tired of it all. Tired of being alone amongst a crowd of men. Tired of failing you. Tired of being smoldered like this. Tired of moving this weary body. It drives me mad, but I can't even call it that. I stand stiff not because I enjoy it, but because I must– there are pins stuck into my collar, one my own and the other belonging to this world. 
+
+Others can lose their sanity and build it all back, yet I'm condemned to patch this failing fort. I cannot fall, but I can no longer stand. Just for good measure, I'm damned to do this all alone– this burden being mine alone. 
+
+I hate this. I revile this sloth that has enveloped me. I loathe the placidness of my nature with these men. I am tired of this body, one that fights back with its stillness. I revile these legs of mine for not being able to bear this weight. I hold both affection and distaste for the company I've been with. Above all, I despise the pain I feel even now. Hate cannot begin to define what I feel at this contemptible existence of mine.
+
+If my normal state is like a rippling lake, then this hatred of mine is a like a tempest. One that seeks to wring life itself. A state that I must reject, even if my body no longer acknowledges me. 
+
+> "Memento mori, memento vivere"
+
+I am mortal. I will die. But I shall also live. I have forgotten neither. I was born with the surname of War. I was born as Abdullah. I bear the name of Zakaria, my forebearer being God's Prophet. My lungs bear Hyderabad's pollution, and my hair retained the curls baked from Mogadishu's heat. I will die on nameless soil. I will die as Abdullah, with or without companions. I was molded from the Earth, and to this Earth shall I return inlaid.
+
+Whether I return as a whole, or as parts– that is my prerogative. Be it whole or part, do I not belong to myself? If this is beyond my ability to control, then what divides my dreams from delusions? 
+
+When my blood scalded, I sought patience. Now, after gaining some measure of it–  I desire to break this cage. A virtue turned stagnation, stifling a heart still burning. Once again, it seems that I've become too patient– patience begetting passiveness. But, I can't do much. It is this lethargy that anchors me to the ground, ensuring that I don't get swept off by others. 
+
+Even then, I am far from death's throes. Its far too soon for me to get rigor mortis, and so it seems that I must learn to get uncomfortable again. After all, I am the bearer of good news– my surname speaking. I cannot deliver if I remain hidden away, nor can I stand in a shrunken space. 
+
+
+ 
+
 Author's note: 
+
 While I did say that it's just me and God, I also didn't define the length of a flicker. After all, some of you move quick whilst others are still stuck. 29 essays later, I still perceive your gaze– one for the future. I'm not worried about it since this is just another chunk of flesh– flesh that bled black instead of red. 
 
-College's off to an interesting start, but I like it. Ofcourse, I only like college if I'm doing good– so I need to lock back in for my academics. I plan on defining feminism in my own words, but we'll see about that. It's also been a while since I last wrote one of my thoughts, so that's also something that I can work towards. But for now? That's all I have. As always, congratulations on reaching the end of this essay.
+As the days move on, my writing focus is going towards technical writing– so these essays are now an indulgence of sorts. Even then, I'll make time occasionally. I may be busy, but I'm not busy– same goes with my lack of energy. It just depends on who's knocking. It's more accurate to call it resource management– even if its a bit coldhearted. 
 
+One consequence of making this longer, is me having to scour all of my essays to link them together. It's been a while since I've done an audit. Anyways, without further ado– congratulations on reaching the end of this essay. At this point, the line is my personal ritual. 
 
 
 
