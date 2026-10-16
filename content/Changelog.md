@@ -244,5 +244,6 @@
 		- Rewrote landing page.
 	- [[Publishing/Knowledge/AFROTC/index|AFROTC]]
 		- Write an index page for the **AS100** subfolder once I have enough sleep.
+		- **What is sleep to a AFROTC Cadet?**
 	- Considerations 
 		- On whether I should start writing poems instead of just limiting myself to essays.
