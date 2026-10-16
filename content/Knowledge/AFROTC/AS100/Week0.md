@@ -1,6 +1,9 @@
 ---
 title: Week#0
 draft: false
+tags:
+  - 650Journal
+  - AFROTC
 date: 08-30-2026
 password: Ubique
 ---

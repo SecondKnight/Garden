@@ -2,6 +2,8 @@
 title: Delta Flight | AS100
 draft: false
 date: 10-14-2026
+tags:
+  - AFROTC
 ---
 
 This folder is an archive of material pertaining to the operations of Delta Flight. I could write more fluff for this, but there's no need. 

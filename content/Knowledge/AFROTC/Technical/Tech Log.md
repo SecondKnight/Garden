@@ -1,6 +1,9 @@
 ---
 title: Tech log
-draft: false 
+tags:
+  - AFROTC
+  - 650Tech
+draft: false
 date: 10-07-2026
 ---
 

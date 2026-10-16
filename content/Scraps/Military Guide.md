@@ -9,4 +9,4 @@ Samez is a pen name that I used to conceal my identity. A name that won't be ret
 
 If anyone's interested in working on this, then you'll know how to get in touch with me. After all, you can't find this website on any search browser– so use the chain of mouths that brought you here. Biggest gain I've had is formatting documents from this.
 
-[[Military Guide.pdf]]
+<embed src="https://zakarias-digital-garden.pages.dev/pdfs/military-guide.pdf" width="850" height="750" type="application/pdf">

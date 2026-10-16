@@ -1,6 +1,9 @@
 ---
 title: Flight Sim
-draft: false 
+tags:
+  - AFROTC
+  - 650Tech
+draft: false
 date: 09-24-2026
 ---
 # Primer
@@ -11,6 +14,7 @@ Made this page so I could compile everything about I know about the Flight Simul
 
 - Upgrading the storage of the PC, currently capped at 512GB and is the reason why we can't play War Thunder. 
 - Upgrading the RAM
+- 
 
 # Simulator Resources
 
@@ -34,7 +38,7 @@ When running DCS on flat-screen, the camera jitters and moves without any mouse 
 3. End all 'OVR' processes
 4. Open DCS
 
-<img src="/images/Jittering_DCS.jpg" alt="Figure 1.1" width="500">
+<img src="Publishing/images/Jittering_DCS.jpg" alt="Figure 1.1" width="500">
 
 ### Rationale: 
 Even when user is running DCS on flat-screen and is not using the headset, it still feeds camera input to the system. We originally thought that the mouse was the root cause, but the issue persisted even after disconnecting the mouse– so the VR headset was the next component tested. If this solution is a fluke, then the issue lies with either the Physical Rig, or with the software itself– this being anywhere from the Rig drivers to the DCS configuration. 
@@ -44,3 +48,16 @@ Even when user is running DCS on flat-screen and is not using the headset, it st
 
 ## 
 
+
+
+
+
+
+
+
+
+
+
+
+[[Resources]]
+[[Tech Log]]

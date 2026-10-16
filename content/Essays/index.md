@@ -2,7 +2,8 @@
 title: Essays
 draft: false
 ---
+Hello there! Most of the essays you'll find here are philosophical, as I tend to think too much. If you're more interested in fiction, then the best I can do is [[Pontifex]]. While I'd love people to read these works, the prose is too dense for casual reading and the word count itself spans pages. 
 
-Hello. I wrote my thoughts. I wrote my convictions. I wrote my understanding. If you're going to read any of these serialized works, then I must ask. If you are going to read my thoughts, I ask that you make an effort to understand. I ask that you question your convictions just as I have. People are disappointing at times, so I'll write an answer for a question I don't even know. 
+This is the mirror to my soul, the depths of what dwells in me. As I've said before, when you look at the abyss– does it not look back? When you look in to mirror of mine, you will find a version of me looking back. You can find a knight sharpening his sword, a scholar committing himself to ijtihad, a coffin waiting for a person, a servant obeying his lord, or a traveler walking– a fraction of those who embody my words the most.
 
-Don't pretend to read. We're all ignorant in a certain sense, so I don't mind. But, ignorance doesn't excuse forgery– nor does it excuse vanity. Sure, I can't magically find out if you're twisting my words. I can't do the same when it comes to faking your understanding. But the odds are in my favor, be it minutes, days, weeks, years. 
+I've said everything that needs to be said. If you want to read, then read. If not, then don't. My writing is like a sword in the sense that has two sides. I write for myself, and for others in the same verse. 

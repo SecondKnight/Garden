@@ -66,7 +66,9 @@ Whether I return as a whole, or as parts– that is my prerogative. Be it whole 
 
 When my blood scalded, I sought patience. Now, after gaining some measure of it–  I desire to break this cage. A virtue turned stagnation, stifling a heart still burning. Once again, it seems that I've become too patient– patience begetting passiveness. But, I can't do much. It is this lethargy that anchors me to the ground, ensuring that I don't get swept off by others. 
 
-Even then, I am far from death's throes. Its far too soon for me to get rigor mortis, and so it seems that I must learn to get uncomfortable again. After all, I am the bearer of good news– my surname speaking. I cannot deliver if I remain hidden away, nor can I stand in a shrunken space. 
+Even then, I am far from death's throes. Its far too soon for me to get rigor mortis, and so it seems that I must learn to get uncomfortable again. After all, I am the bearer of good news– my surname speaking. I cannot deliver if I remain hidden away, nor can I stand in a shrunken space. To die, I must first live. 
+
+
 
 
  
@@ -78,6 +80,15 @@ While I did say that it's just me and God, I also didn't define the length of a 
 As the days move on, my writing focus is going towards technical writing– so these essays are now an indulgence of sorts. Even then, I'll make time occasionally. I may be busy, but I'm not busy– same goes with my lack of energy. It just depends on who's knocking. It's more accurate to call it resource management– even if its a bit coldhearted. 
 
 One consequence of making this longer, is me having to scour all of my essays to link them together. It's been a while since I've done an audit. Anyways, without further ado– congratulations on reaching the end of this essay. At this point, the line is my personal ritual. 
+
+[[10-Vulnerable. Death's gravity.]]
+[[20-Outlook]]
+[[09-Refinement of Hatred]]
+[[36-Move]]
+[[32-Identity]]
+[[21-Bonds]]
+[[25-Insight]]
+[[38-Speech]]
 
 
 

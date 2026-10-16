@@ -1,5 +1,6 @@
 ---
 title: Silence
+tag: 650Tech
 draft: false
 date: 08-07-2026
 ---
@@ -63,4 +64,5 @@ Now that I face less restrictions and developed a better understanding on these 
 The definition of 'Religion' is board and far-reaching, so I can't let my hands be overly affected by this. I don't have anything else to say, so lets end this off. As always, congratulations for reaching the end of this essay.
 
 [[24-Lumen]]
-[[]]
+[[31-Doubt]]
+

@@ -229,4 +229,20 @@
 			- Added [[FT10-13-2026]] with credits to note-taker. 
 	- [[Publishing/Essays/index|Essays]]
 		- Index needs to be written oncemore. 
-		- Added [[46-Condition]]. 
+		- <s> Added [[46-Condition]]. </s>
+		- Finished **Cups**. 
+- 10-15-2026
+	- Images
+		- Fixed the file path. My Obsidian Vault originally consisted of a single main folder, so there wasn't a good place to store private notes. So, I got rid of my old vault and used the original main folder as a subfolder– now I have two main folders. 
+		- A consequence of doing so, is that the file paths changed for the images– forcing me to add another folder to it. 
+	- PDFs
+		- Turned [[Military Guide]] into an embed. 
+	- Graphs
+		- Linked the [[Publishing/Knowledge/AFROTC/index|AFROTC]] notes together. 
+		- [[Publishing/Essays/index|Essays]] is mostly done, some more links need to be made. 
+	- [[Publishing/Essays/index|Essays]]
+		- Rewrote landing page.
+	- [[Publishing/Knowledge/AFROTC/index|AFROTC]]
+		- Write an index page for the **AS100** subfolder once I have enough sleep.
+	- Considerations 
+		- On whether I should start writing poems instead of just limiting myself to essays.

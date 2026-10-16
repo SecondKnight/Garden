@@ -1,9 +1,32 @@
-
 ---
 title: Identity
 draft: false
-date: 01/17/2026
+date: 01-17-2026
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 In 'Doubt', I wrote a bit about a shift in my writing– from a pseudonym to my name. Thanks to this, you'll find my older works to be a bit more direct as I didn't have to worry about it being tied back to myself. 
 
 I used to press my pen onto the ground without worrying about the weight of my words. After all, there was no head to bear this weight. It seems that I've been remiss, forgetting that I gravitate towards it– a mantle that rests on my shoulders. 
