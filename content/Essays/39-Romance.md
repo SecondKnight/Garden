@@ -3,6 +3,7 @@ title: Romance
 draft: false
 date: 03/29/2026
 ---
+
 In ‘Move’, I wrote the axiom of “To live is to move, by line of sight or point of spear”. Be it reason or belief, I refuse to remain static. For the past few days, I’ve been sick with a burning heart– one that’ll be sated today. 
 
 Our lives are a reflection of choices. Quite frankly, everything we do can be predicted. In the grand scheme of life, the fact that we can foretell the outcomes of our choice is a bleak fact– rendering our actions futile. Which one of us would resign ourselves to living a life that isn’t theirs?

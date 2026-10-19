@@ -127,6 +127,9 @@ Then comes extracurriculars. I don't have to necessarily prioritize them since t
 Apart from that, I typically don't have any other engagements so I use my time as I see fit. Depending on how time-sensitive some events are, my calendar becomes a bit soft. After all, I can't be on time for everything– it's a human limitation. So rather than leaving it up to fate, I'd rather be the one deciding my punctuality. I can miss an Extra Lives meeting if it conflicts with any AFROTC event, and at the very least– I'll just plan around the commitments that already set in stone.
 
 
+------- 
+
+
 
 
 

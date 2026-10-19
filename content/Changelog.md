@@ -248,3 +248,15 @@
 		- **What is sleep to a AFROTC Cadet?**
 	- Considerations 
 		- On whether I should start writing poems instead of just limiting myself to essays.
+- 10-18-2026
+	- [[Publishing/Dreams/index|Dreams]]
+		- New category created. 
+		- Moved [[Pontifex]] from [[Publishing/Scraps/index|Scraps]] to [[Publishing/Dreams/index|Dreams]]
+		- Created landing page. 
+	- [[Publishing/Knowledge/AFROTC/index|AFROTC]]
+		- Updated the landing page. 
+	- General 
+		- Changed color scheme
+			- Old Color Scheme: Coffee
+			- New Color Scheme: Forest. 
+			- Created initial palette myself and then used AI to refine it.
