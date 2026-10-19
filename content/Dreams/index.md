@@ -1,6 +1,7 @@
 ---
 title: Dreams
 draft: false
+tags: Dreams
 ---
 
 Most of my notes and essays are non-fiction, but I plan on writing more fictional works. These words of mine started from creative writing and it's about time for me to go back to my roots. I plan on writing some poems here and there– sprinkling them like petals around this verdant garden of mine. I'd love to watch them fly, but there's no wind here that'd carry them. 

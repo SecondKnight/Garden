@@ -1,7 +1,7 @@
 ---
 title: Condition
-draft: true
-date: 09-25-2026
+draft: false
+date: 10-19-2026
 ---
 
 Another contradiction has manifested itself. I am alone, but not. I may be a part of them, but I can't say the same for myself. here are only so few things that I truly have a part in. 
@@ -68,14 +68,18 @@ When my blood scalded, I sought patience. Now, after gaining some measure of it�
 
 Even then, I am far from death's throes. Its far too soon for me to get rigor mortis, and so it seems that I must learn to get uncomfortable again. After all, I am the bearer of good news– my surname speaking. I cannot deliver if I remain hidden away, nor can I stand in a shrunken space. To die, I must first live. 
 
+I cannot give up after a single defeat, nor after a string of countless losses. I've long since subscribed that until death– the only defeat is psychological. While I remain unseen and unheard, judging by the blood flowing through me– I'm alive!
 
+As long as that blood continues to move without interruption, I cannot suffer defeat in the truest sense. Even if I lose a battle, life cannot push me back. After all, it can't kill me. It is forced to watch me regain my strength, to learn from the last fight, and to challenge it again. It is for that reason that I've invoked the 'War' in my name. 
+
+I will hit life with everything I have. If once isn't enough, then twice. If twice isn't enough, then thrice. If thrice isn't enough, then I won't stop. By the time I'm done living, you will break. The only question is whether I'd join you or not. 
 
 
  
 
 Author's note: 
 
-While I did say that it's just me and God, I also didn't define the length of a flicker. After all, some of you move quick whilst others are still stuck. 29 essays later, I still perceive your gaze– one for the future. I'm not worried about it since this is just another chunk of flesh– flesh that bled black instead of red. 
+While I did say that it's just me and God, I also didn't define the length of a flicker. After all, some of you move quick whilst others are still stuck. 29 essays later, I still perceive your gaze– one for the future. I'm not worried about it since this is just another chunk of flesh– flesh that bled black instead of red. While I do love my rationality, it feels good to to immerse myself with these emotions. 
 
 As the days move on, my writing focus is going towards technical writing– so these essays are now an indulgence of sorts. Even then, I'll make time occasionally. I may be busy, but I'm not busy– same goes with my lack of energy. It just depends on who's knocking. It's more accurate to call it resource management– even if its a bit coldhearted. 
 

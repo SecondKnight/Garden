@@ -32,3 +32,6 @@ date: 10-07-2026
 		- New issue exists, make a note to ask C/Fawcett about it.
 		- Ask C/Foster about the VR headset and look into getting it operational if it's not.
 			- If the VR headset is operational, then I'll update [[Flight Simulator]] with the relevant documentation if needed. 
+- 10-18-2026
+	- Declaring intent for the following item:
+		- To create a report form for technical issues. Question is whether to limit it to Detachment devices or not.

@@ -1,3 +1,4 @@
+
 - 4/5/2026
 	- Initialized website.
 	- Set up Cloudflare
@@ -261,3 +262,20 @@
 			- New Color Scheme: Forest. 
 			- Created initial palette myself and then used AI to refine it.
 		- Changed graph settings to make it more readable. 
+- 10-19-2026
+	- Added Tags. Forgot to add this in the logs. 
+		- AFROTC-related:
+			- #650Journal 
+			- #650Tech 
+			- #AFROTC 
+		- Writing-related:
+			- #Dreams 
+			- #Knowledge 
+	- [[Essays]]
+		- Finished [[46-Condition]], again.
+	- [[Publishing/Knowledge/AFROTC/Technical/index|Technical]]
+		- Rewrote landing page again. 
+			- The original page had too many words and would clutter up the screen. For mobile users, the actual notes would be at the very bottom– so there's a chance for them to miss it.
+			- Remedied this by removing the replacing the 'Objectives' portion of the page. 
+	- General
+		- Declare intent to introduce a TOC to this page, to change all dates into Primary Headers, and all subjects into Secondary Headers. 

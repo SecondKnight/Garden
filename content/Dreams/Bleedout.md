@@ -2,7 +2,7 @@
 title: Bleedout
 date: 10-18-2026
 draft: false
-tags: #Dreams
+tags: Dreams
 ---
 
 Prompt:
@@ -17,3 +17,9 @@ Fidelis's lips have a slight curve as he speaks one last time "Recite the rites.
 
 Seven days later, the fire finally dies out– leaving a razed forest. The ground around the stump is thick with their blood. A few weeks pass by as the forest starts to grow back, starting from the stump with flowers growing from the corpses. As time continues to pass, their deaths bring the start of a garden– their stalks tinged with vermillion.
 
+Author's note:
+
+This is the result of doomscrolling. Fidelis is going to be my main character, and as such= I'll probably write more lore about him in the future. Perhaps I should write him as my most ideal self. 
+
+
+[[Pontifex]]
