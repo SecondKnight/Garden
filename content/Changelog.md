@@ -260,3 +260,4 @@
 			- Old Color Scheme: Coffee
 			- New Color Scheme: Forest. 
 			- Created initial palette myself and then used AI to refine it.
+		- Changed graph settings to make it more readable. 
