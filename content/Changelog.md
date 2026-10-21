@@ -1,140 +1,156 @@
 
-- 4/5/2026
-	- Initialized website.
-	- Set up Cloudflare
-	- Made GitHub repository 
-	- Set up Quartz
-- 5/5/2026
-	- minor adjustments to previous essays
-	- Changed the method of page sorting from serial to chronological. 
-		- Changed sorting from descending to ascending. 
-	- Got the homepage working.
-	- Changed local storage from the OneDrive folder to the actual document folder. May God smite the guys over at Microsoft for creating this monster whose corpse still troubles me.  
-		- It seems that all of our stuff is stored within OneDrive folders, even if we uninstall it. This causes issues due to the special nature of these folders. 
-- 05-06-2026
-	- Got the sorting layout to order pages based on date as it's primary method
-		- In the event that multiple pages share the same date, a secondary property known as order is used to determine the order. 
-	- Disabled GitHub pages and actions to stop attempts of duplicate hosting. 
-	- Redeployed website after Cloudflare got stuck on an earlier build. 
-	- <s>Added support for themes before installing a custom theme. </s>
-		- Reverted back to yesterday's version since the custom themes broke the website.
-			- Users (me) couldn't select text on the website
-			- Hours spent on resolving this issue: 3
-		- By reverting to this version, some parts of this project broke 
-			- Resolved this by deleting the text files and rebuilding the symbolic link that connected my vault and quartz
-		- Just learnt the hard way that git doesn't roll **everything** back. Resolved this by manually deleting the responsible files.
-		- It seems that I'll have to make my own theme. 
-- 05-07-2026
-	- Implemented my own custom theme, took roughly an hour or two. 
-	- Got the input-field for email up to a presentable standard, courtesy of !important.
-		- A common trait here is that any CSS I do gets overridden unless I use !important or change the source after combing through every file. 
-	- Created [[Credits]]
-	- employed a combination of wikilinks and markdown marks
-- 05-09-2026
-	- Added the spreadsheet into [[Publishing/index]]
-	- Retrospectively began to reference prior works with each other. 
-	- reconfigured global graph view to make it more visually appealing. 
-		- Changed settings that affected graph behavior 
-		- Changed the colour of the link from dark purple to grey for visibility. 
-			- Spent 1-2 hours on this
-			- Reconfigured settings accordingly
-			- Spent another hour on changing the color of links when highlighted.
-			- Broke the graph entirely in the process of doing so, requiring additional time to resolve issue. 
-- 05-14-2026
-	- Testing began for [[42-Letters]].
-- 05-17-2026
-	- No changes, but I just realized that the local graph view restarts when the theme changes. Cool bit of trivia ngl.
-- 05-20-2026
-	- Redefined this as a Digital Garden. 
-	-  Removed the email list. 
-		- This would inhibit the growth of this project and would introduce artificial traffic. 
-		- If people are going to read my works and want a reminder. If you like my works this much, then just ask me. 
-		- Keep in mind, this is a lifetime project– it's easy for this to become messy.
-- 05-23-2026
-	- Changes to [[Publishing/index]]
-		- Rewrote the entire body
-		- Introduced a table of contents. 
-	- Changes to [[Credits]]
-		- Removed it as it would be redundant in its current iteration. 
-	- Changes to [[42-Letters]]
-		- Added an update before the Author's note. 
-- 05-24-2026
-	- <s>The addition of a Journal.
-		- It's going to be composed of personal experiences and recollections, so it won't be polished. The main reason why I'm creating this new classification is so that this writing won't hold up to the standards of my essays.</s>
-- 06-06-2026
-	- Added the 'Knowledge' folder 
-		- Declared my intent to store the notes of my **Major**
-			- Notes will be made based on subject matter. Example being HTML, classes, variable, etc. 
-			- Notes will subsequently categorized based on course with tags, ergo CS 2400, CS 2300, CS 3000, etc. 
-		- Declared my intent to archive my experiences in **AFROTC** 
-			- Waiting until formal enrollment before I elaborate further. 
-- 06-08-2026
-	- Backend 
+- # 4/5/2026
+  
+	- ## General 
+		- Initialized website.
+		- Set up Cloudflare
+		- Made GitHub repository 
+		- Set up Quartz
+- # 5/5/2026
+	- ## Essays
+		- minor adjustments to previous essays
+	- ## General
+		- Changed the method of page sorting from serial to chronological. 
+			- Changed sorting from descending to ascending. 
+		- Got the homepage working.
+		- Changed local storage from the OneDrive folder to the actual document folder. May God smite the guys over at Microsoft for creating this monster whose corpse still troubles me.  
+			- It seems that all of our stuff is stored within OneDrive folders, even if we uninstall it. This causes issues due to the special nature of these folders. 
+- # 05-06-2026
+	- ## General
+		- Got the sorting layout to order pages based on date as it's primary method
+			- In the event that multiple pages share the same date, a secondary property known as order is used to determine the order. 
+		- Disabled GitHub pages and actions to stop attempts of duplicate hosting. 
+		- Redeployed website after Cloudflare got stuck on an earlier build. 
+		- <s>Added support for themes before installing a custom theme. </s>
+			- Reverted back to yesterday's version since the custom themes broke the website.
+				- Users (me) couldn't select text on the website
+				- Hours spent on resolving this issue: 3
+			- By reverting to this version, some parts of this project broke 
+				- Resolved this by deleting the text files and rebuilding the symbolic link that connected my vault and quartz
+			- Just learnt the hard way that git doesn't roll **everything** back. Resolved this by manually deleting the responsible files.
+			- It seems that I'll have to make my own theme. 
+- # 05-07-2026
+	- ## General
+		- Implemented my own custom theme, took roughly an hour or two. 
+		- Got the input-field for email up to a presentable standard, courtesy of !important.
+			- A common trait here is that any CSS I do gets overridden unless I use !important or change the source after combing through every file. 
+		- Created [[Credits]]
+		- employed a combination of wikilinks and markdown marks
+- # 05-09-2026
+	- ## General
+		- Added the spreadsheet into [[Publishing/index]]
+		- Retrospectively began to reference prior works with each other. 
+		- reconfigured global graph view to make it more visually appealing. 
+			- Changed settings that affected graph behavior 
+			- Changed the colour of the link from dark purple to grey for visibility. 
+				- Spent 1-2 hours on this
+				- Reconfigured settings accordingly
+				- Spent another hour on changing the color of links when highlighted.
+				- Broke the graph entirely in the process of doing so, requiring additional time to resolve issue. 
+- # 05-20-2026
+	- ## General 
+		- Redefined this as a Digital Garden. 
+		-  Removed the email list. 
+			- This would inhibit the growth of this project and would introduce artificial traffic. 
+			- If people are going to read my works and want a reminder. If you like my works this much, then just ask me. 
+			- Keep in mind, this is a lifetime project– it's easy for this to become messy.
+- # 05-23-2026
+	- ## General
+		- Changes to [[Publishing/index]]
+			- Rewrote the entire body
+			- Introduced a table of contents. 
+		- Changes to [[Credits]]
+			- Removed it as it would be redundant in its current iteration. 
+	- ## Essays
+		- Changes to [[42-Letters]]
+			- Added an update before the Author's note. 
+- # 05-24-2026
+	- ## General
+		- <s>The addition of a Journal.
+			- It's going to be composed of personal experiences and recollections, so it won't be polished. The main reason why I'm creating this new classification is so that this writing won't hold up to the standards of my essays.</s>
+- # 06-06-2026
+	- ## Knowledge
+		- Added the 'Knowledge' folder 
+			- Declared my intent to store the notes of my **Major**
+				- Notes will be made based on subject matter. Example being HTML, classes, variable, etc. 
+				- Notes will subsequently categorized based on course with tags, ergo CS 2400, CS 2300, CS 3000, etc. 
+			- Declared my intent to archive my experiences in **AFROTC** 
+				- Waiting until formal enrollment before I elaborate further. 
+- # 06-08-2026
+	- ## Backend 
 		- Audited it and found discrepancies with the serialization. 
 		- Reserialized the spreadsheet and stored notes to align with each other. I've done this for the 4-5th time, so I pray that this is the last. It is tedious, with a disproportionate amount of time being invested into this facet that results in minimal changes.
-	- Invalidation
+	- ## Invalidation
 		- In [[37-Fives|Fives]], I formalized my choice of writing shorter essays after considering the conditions that I published my works in. As I said before, words are a bond– an oath. 
 		- Since then, the scope of this project has expanded. The nature of this project has become a garden, so I don't have to curate my words. One way or another, it shall become a lush one.
 		- In addition to this, I have been inconsistent– my actions perjuring these words of mine. So while this may be a factor in my consideration for this change, it is a mark on my integrity.
 		- It is hereby resolved, that the limitation that I have established unto myself has been invalidated in light of this. 
-- 06-13-2026
-	- [[29-Tones|Tones]] & [[15-Looking Back|Looking Back]]
-		- Added hyperlink support for referenced essays. 
-- 06-20-2026
-	- Reviewed 4 out of 44 essays to anonymize personal identifiable information. 
-- 06-21-2026
-	- The actions of 06-20-2026 are under an administrative injunction, pending resolution.
-	- Completed [[44-Conflict]]
-		- Added a new property: **Time of Completion**
-			- The **Date** property now signifies the start of each essay, starting from [[44-Conflict]]
-- 07-01-2026 to 07-12-2026
-	- This log is being consolidated due to my recent inconsistency in updating this. 
-	- Upgraded the entire website from Quartz 4 to Quartz 5
-		- Broke several website components
-		- Due to my lack of experience, I made those issues worse and had to revert to Quartz 4. 
-		- Deleted the entire GitHub repository and created a new one.
-			- This time, **almost** all of my previous issues and modifications were resolved. 
-			- custom.scss was code I had for Quartz 4 and I only realized that after it drove me insane for a week. 
-			- This website is now at a publishable state **again.**
-		- URL change
-			- Cloudflare project for hosting this website was deleted: <u>quartz-e5i.pages.dev</u>   
-			- new Cloudflare project was made in order to change the custom domain allotted to me: <u>zakarias-digital-garden.pages.dev/</u>
-	- Folders created with introductions
-		- [[Knowledge/index|Knowledge]]
-			- Added [[Knowledge/Legalese/index|Legalese]]
-			- Added[[Publishing/Knowledge/index|Computer Science]]
-			- Added [[Knowledge/AFROTC/index|AFROTC]]
-			- Added an introduction to [[Essays/index|Essays]]
-		- [[Scraps/index|Scraps]]
+- # 06-13-2026
+	- ## Essays
+		- [[29-Tones|Tones]] & [[15-Looking Back|Looking Back]]
+			- Added hyperlink support for referenced essays. 
+- # 06-20-2026
+	- ## Essays
+		- Reviewed 4 out of 44 essays to anonymize personal identifiable information. 
+- # 06-21-2026
+	- ## Essays
+		- The actions of 06-20-2026 are under an administrative injunction, pending resolution.
+		- Completed [[44-Conflict]]
+			- Added a new property: **Time of Completion**
+				- The **Date** property now signifies the start of each essay, starting from [[44-Conflict]]
+- # 07-01-2026 to 07-12-2026
+	- ## General
+		- This log is being consolidated due to my recent inconsistency in updating this. 
+		- Upgraded the entire website from Quartz 4 to Quartz 5
+			- Broke several website components
+			- Due to my lack of experience, I made those issues worse and had to revert to Quartz 4. 
+			- Deleted the entire GitHub repository and created a new one.
+				- This time, **almost** all of my previous issues and modifications were resolved. 
+				- custom.scss was code I had for Quartz 4 and I only realized that after it drove me insane for a week. 
+				- This website is now at a publishable state **again.**
+			- URL change
+				- Cloudflare project for hosting this website was deleted: <u>quartz-e5i.pages.dev</u>   
+				- new Cloudflare project was made in order to change the custom domain allotted to me: <u>zakarias-digital-garden.pages.dev/</u>
+	- ## [[Knowledge/index|Knowledge]]
+		- Added [[Knowledge/Legalese/index|Legalese]]
+		- Added[[Publishing/Knowledge/index|Computer Science]]
+		- Added [[Knowledge/AFROTC/index|AFROTC]]
+		- Added an introduction to [[Essays/index|Essays]]
+	- ## [[Scraps/index|Scraps]]
 		- Added introduction.
 		- Added [[Pontifex]]
-	-  [[44-Conflict]]
-		- Finally removed that WIP tag.
-	-  ~~Remind me to update this if you still see it.~~ Updated. 
-	- Inactivity
+	- ## Essays
+		- [[44-Conflict]]
+			- Finally removed that WIP tag.
+			-  ~~Remind me to update this if you still see it.~~ Updated. 
+	- ## Inactivity
 		- Originally, I planned on taking a short break on this website and this project as a whole. I didn't spend all twelve days on this project, but it never left my mind. What I did spend was over six hours of troubleshooting. 
 		- Taking a break would make me an workaholic with no work. Unacceptable. In a way, writing is my ideal. It is a **permanent** expression, one that'll remain as I drink my suffering raw. 
 		- Why revel in comfort and its many forms when they'll come and go? You won't find the same person twice, from those who share your lifespan– so how could you expect comfort from anything less? Cogito, ergo sum. If my thought proves my existence, then surely it can sustain it.
-	- Pending tasks:
+	- ## Pending tasks:
 		- Spreadsheet 
 			- Requires an update
 			- Should I count this changelog? It's almost 1,300 words now. 
 		- Graph
 			- Link colors need to changed to optimize visibility.
 		- Anything else.
-- 07-24-2026
+- # 07-24-2026
 	-  It's actually the 30th, but I forgot to update this part. 
-	- Redacted PII up to the 12th essay.
-- 07-30-2026 
-	- Taking [[42-Letters]]down for maintenance. 
-	- Fixed the name of  [[Publishing/Knowledge/index|index]] 
-- 08-01-2026
-	- Restored [[42-Letters]] and rewrote the sections after the main part.  
-- 08-08-2026
-	- Finished [[45-Silence]] 
-	- Removed ???. Today is the 27th and I have no idea what my former self had in mind. 
-- 08-27-2026
-	- Updated [[Publishing/Knowledge/index| Bachelors]]
+	- ## General
+		- Redacted PII up to the 12th essay.
+- # 07-30-2026 
+	- ## Essays
+		- Taking [[42-Letters]]down for maintenance. 
+	- Fixed the name of  [[Publishing/Knowledge/index|Knowledge]] 
+- # 08-01-2026
+	- ## Essays
+		- Restored [[42-Letters]] and rewrote the sections after the main part.  
+- # 08-08-2026
+	- ## Essays
+		- Finished [[45-Silence]] 
+		- Removed ???. Today is the 27th and I have no idea what my former self had in mind. 
+- # 08-27-2026
+	- ## Updated [[Publishing/Knowledge/index| Bachelors]]
 		- Started digitalization of notes: 
 			- EE1024: **Complete**
 			- ET2905: **Complete**
@@ -144,71 +160,73 @@
 				- Actually understanding the course content. 
 			- All of these notes will be actively worked on and maintained until I pass. After I pass this semester, these notes will remain– but they'll be deprioritized. After all, I'll be working on the next iteration. 
 			- Reminder for my future self: Group these courses into folders based on semesters. 
-	- Plans for [[Knowledge/AFROTC/index|AFROTC]]
+	- ## Plans for [[Knowledge/AFROTC/index|AFROTC]]
 		- AF regulations prohibit Cadets from sharing any information in regards to AFQOT. This is oversimplified, but suffices for a changelog– so I can't mention that in my journal. 
 		- To avoid the chance of me shooting my own foot in regards to information, I will add a password and will restrict access to fellow cadets in the AFROTC program. 
 		- I will also rewrite the index page as it sounds too similar to what I've written here. 
-	- Removed most of the non-publishable files I had from this vault, by extension this website.
-		- This means that they are no longer being stored in the GitHub repository itself, mitigating a potential risk. 
-	- Updated quartz plugins
-		- **syntax-highlighting**'s build failed. No need to investigate further as it's marginal to the website. 
-	- Finally changed the graph link colors
-		- Took me over an hour to realize that I can't make it specific to the graph itself.
-		- Royal purple wasn't my first choice, but the tables aren't readable if I make it a light color. 
-- 08-28-2026
-	- It's me again, changed the graph link colors again to align better with the theme. 
-	- Enabled a preview card for links, should be dynamic. 
-	- [[Publishing/Knowledge/index|Bachelors]]
+	- ## General 
+		- Removed most of the non-publishable files I had from this vault, by extension this website.
+			- This means that they are no longer being stored in the GitHub repository itself, mitigating a potential risk. 
+		- Updated quartz plugins
+			- **syntax-highlighting**'s build failed. No need to investigate further as it's marginal to the website. 
+		- Finally changed the graph link colors
+			- Took me over an hour to realize that I can't make it specific to the graph itself.
+			- Royal purple wasn't my first choice, but the tables aren't readable if I make it a light color. 
+- # 08-28-2026
+	- ## General 
+		- It's me again, changed the graph link colors again to align better with the theme. 
+		- Enabled a preview card for links, should be dynamic. 
+	- ## [[Publishing/Knowledge/index|Bachelors]]
 		- EE1024: Will be postponed until I learn the syntax for Latex. 
-- 08-30-2026
-	- [[Knowledge/AFROTC/index|AFROTC]]
+- # 08-30-2026
+	- ## [[Knowledge/AFROTC/index|AFROTC]]
 		- Added [[Week0]] and [[Week1]]
 		- Implementing password protection to limit access. If I'm going to suffer, y'all better suffer **with** me if you to look through my perspective. 
 		- Declared my intent to gather the journals of other cadets eventually. I too want to learn about their perspectives. I believe that their windows will be insightful and will prevent my own window from overshadowing a future cadet's actual experience. 
-- 09-06-2026
-	- Cups (Pending)
+- # 09-06-2026
+	- ## Cups (Pending)
 		- Changed the name to align better with the essay itself. The title 'Cups' was chosen due to the symbolism for love that I used in a prior draft. 
 		- Also changed it to purposefully break the links that I sent in the past. It's time to close that window of transparency. 
-	- [[Knowledge/AFROTC/index|AFROTC]]
+	- ## [[Knowledge/AFROTC/index|AFROTC]]
 		- Added [[Week2]]
 		- Put all of the notes into **AS100**. Next year, I'll make **AS200**.
-- 09-10-2026
-	- Images
+- # 09-10-2026
+	- ## Images
 		- Figured out how to add images on my webpages. [[Week2]] is the first one that gets it, but I'll probably add more images to my journal. 
 		- Created an images folder to store them. 
-	- [[Knowledge/AFROTC/index|AFROTC]]
+	- ## [[Knowledge/AFROTC/index|AFROTC]]
 		- Reorganized [[AST1100]], considering on whether I should get rid of the page and incorporate its content into the weekly entries.
 			- WIP
-- 09-20-2026
-	- [[Knowledge/Legalese/index|Legalese]]
+- # 09-20-2026
+	- ## [[Knowledge/Legalese/index|Legalese]]
 		- Added [[Dixon v. Alabama State Board of Education]]
-	- [[Knowledge/AFROTC/index|index]]
+	- ## [[Knowledge/AFROTC/index|index]]
 		- Added [[Week4]]
 	- Updated quartz and plugins
-- 09-30-2026
-	- [[Publishing/Knowledge/index|Computer Science]]
+- # 09-30-2026
+	- ## [[Publishing/Knowledge/index|Computer Science]]
 		- Deliberating on whether I should create notes of concepts instead of trying to map my notes with my courses. 
 		- Two main causes behind this:
 			- The most optimal way to capture content for some courses isn't by computer, but by handwritten notes.
 				- I could remedy this by getting a tablet, but I have a finite sum of money that wouldn't be renewing itself anytime soon.
 			- Some courses simply don't allow computers to be used for the purpose of note-taking. 
 				- I could power through and transcribe my notes, but I'm so tired. My body wants rest but I can't. 
-	- [[Knowledge/AFROTC/index|AFROTC]]
+	- ## [[Knowledge/AFROTC/index|AFROTC]]
 		- Added Delta subfolder to organize content pertaining to my Flight.
 			- Contents of it have a different password from the AS100 notes, specifically for my Flight members. Whether I tell them of its existence or not is another story.
 		- Added Technical subfolder to organize content pertaining to technical operations that occur in the Detachment. Essentially a place for fellow cadets to reproduce solutions to issues or problems that I diagnosed. Looking at them, It's my continuity plan for when I inevitably go into the night.
-- 10-02-2026
-	- [[Scraps/index|Scraps]]
+- # 10-02-2026
+	- ## [[Scraps/index|Scraps]]
 			- Added [[Military Guide]]
-- 10-14-2026
-	- [[Knowledge/index|Knowledge]]
+- # 10-14-2026
+	- ## [[Knowledge/index|Knowledge]]
 		- Moved subfolder ```Computer Science```'s landing page to knowledge. Links have been auto-updated to reflect that change. 
-		- [[Publishing/Knowledge/index|Comp. Sci]]
+		- ### [[Publishing/Knowledge/index|Comp. Sci]]
 			- Formalizing my discontinuation of this due to its infeasibility. The following notes will be archived to[[Publishing/Scraps/index|Scraps]] as I eventually implement the idea written on 09-30-2026. 
 				- [[CS2400]]
 				- [[EE1024]]
 				- [[ET2905]]
-	- Graph
+	- ## Graph
 		- Looked into using local LLMs to automate link creation between different notes. 
 			- Obsidian Plugins:
 				- Open Connections
@@ -218,68 +236,70 @@
 				- text-embedding-nomic-embed-text-v1.5
 		- Results were unsatisfactory, so I plan on doing it manually once I have more time. 
 		- Link categories that need to be elevated: [[Publishing/Essays/index|Essays]], [[Publishing/Knowledge/AFROTC/index|AFROTC]]
-	- [[Publishing/Knowledge/AFROTC/index|AFROTC]]
+	- ## [[Publishing/Knowledge/AFROTC/index|AFROTC]]
 		- Made a landing page for the folder. 
 		- Used HTML to link my email along with a pre-set subject. 
 		- Created [[Tech Log]] & [[Resources]]
 			- [[Resources]] is for general knowledge, resources for specialized matters like the [[Flight Simulator]] can be found in their respective pages. 
 				- Currently thinking about adding C/Renkas' Land Navigation game to [[Resources]]. Will need to ask him about it first. 
 			- [[Tech Log]] documents everything I've done and plan on doing in this regard. 
-		- [[Delta]]
+		- ### [[Delta]]
 			- Created a landing page. 
 			- Added [[FT10-13-2026]] with credits to note-taker. 
-	- [[Publishing/Essays/index|Essays]]
+	- ## [[Publishing/Essays/index|Essays]]
 		- Index needs to be written oncemore. 
 		- <s> Added [[46-Condition]]. </s>
 		- Finished **Cups**. 
-- 10-15-2026
-	- Images
+- # 10-15-2026
+	- ## Images
 		- Fixed the file path. My Obsidian Vault originally consisted of a single main folder, so there wasn't a good place to store private notes. So, I got rid of my old vault and used the original main folder as a subfolder– now I have two main folders. 
 		- A consequence of doing so, is that the file paths changed for the images– forcing me to add another folder to it. 
-	- PDFs
+	- ## PDFs
 		- Turned [[Military Guide]] into an embed. 
-	- Graphs
+	- ## Graphs
 		- Linked the [[Publishing/Knowledge/AFROTC/index|AFROTC]] notes together. 
 		- [[Publishing/Essays/index|Essays]] is mostly done, some more links need to be made. 
-	- [[Publishing/Essays/index|Essays]]
+	- ## [[Publishing/Essays/index|Essays]]
 		- Rewrote landing page.
-	- [[Publishing/Knowledge/AFROTC/index|AFROTC]]
+	- ## [[Publishing/Knowledge/AFROTC/index|AFROTC]]
 		- Write an index page for the **AS100** subfolder once I have enough sleep.
 		- Note to rewrite the index page for the AFROTC folder.
 		- **What is sleep to a AFROTC Cadet?**
-	- Considerations 
+	- ## Considerations 
 		- On whether I should start writing poems instead of just limiting myself to essays.
-- 10-18-2026
-	- [[Publishing/Dreams/index|Dreams]]
+- # 10-18-2026
+	- ## [[Publishing/Dreams/index|Dreams]]
 		- New category created. 
 		- Moved [[Pontifex]] from [[Publishing/Scraps/index|Scraps]] to [[Publishing/Dreams/index|Dreams]]
 		- Created landing page. 
-	- [[Publishing/Knowledge/AFROTC/index|AFROTC]]
+	- ## [[Publishing/Knowledge/AFROTC/index|AFROTC]]
 		- Updated the landing page. 
-	- General 
+	- ## General 
 		- Changed color scheme
 			- Old Color Scheme: Coffee
 			- New Color Scheme: Forest. 
 			- Created initial palette myself and then used AI to refine it.
 		- Changed graph settings to make it more readable. 
-- 10-19-2026
-	- Added Tags. Forgot to add this in the logs. 
-		- AFROTC-related:
+- # 10-19-2026
+	- ## Tags. Forgot to add this in the logs. 
+		- ### AFROTC-related:
 			- #650Journal 
 			- #650Tech 
 			- #AFROTC 
-		- Writing-related:
+		- ### Writing-related:
 			- #Dreams 
 			- #Knowledge 
-	- [[Essays]]
+	- ## [[Essays]]
 		- Finished [[46-Condition]], again.
-	- [[Publishing/Knowledge/AFROTC/Technical/index|Technical]]
+	- ## [[Publishing/Knowledge/AFROTC/Technical/index|Technical]]
 		- Rewrote landing page again. 
 			- The original page had too many words and would clutter up the screen. For mobile users, the actual notes would be at the very bottom– so there's a chance for them to miss it.
 			- Remedied this by removing the replacing the 'Objectives' portion of the page. 
-	- General
+	- ## General
 		- Declare intent to introduce a TOC to this page, to change all dates into Primary Headers, and all subjects into Secondary Headers. 
-- 10-21-2026
-	- [[Publishing/Knowledge/AFROTC/Delta/index|Delta]]
+- # 10-21-2026
+	- ## [[Publishing/Knowledge/AFROTC/Delta/index|Delta]]
 		- Added [[FT10-20-2026]]
-		- 
+	- ## [[Publishing/Scraps/index|Scraps]]
+		- Declare intent to rewrite landing page. 
+		- Declare intent to add disclaimers to all notes in **Scraps**. 
