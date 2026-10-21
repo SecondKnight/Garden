@@ -1,6 +1,5 @@
 ---
 title: Silence
-tag: 650Tech
 draft: false
 date: 08-07-2026
 ---

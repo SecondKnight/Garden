@@ -5,12 +5,6 @@ date: 11/12/2025
 ---
 
 
-
-
-
-
-
-
 What are some goals and/or ideas you have for the position you're applying for?
 
 

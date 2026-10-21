@@ -279,3 +279,7 @@
 			- Remedied this by removing the replacing the 'Objectives' portion of the page. 
 	- General
 		- Declare intent to introduce a TOC to this page, to change all dates into Primary Headers, and all subjects into Secondary Headers. 
+- 10-21-2026
+	- [[Publishing/Knowledge/AFROTC/Delta/index|Delta]]
+		- Added [[FT10-20-2026]]
+		- 
