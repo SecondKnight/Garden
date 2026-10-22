@@ -301,5 +301,9 @@
 	- ## [[Publishing/Knowledge/AFROTC/Delta/index|Delta]]
 		- Added [[FT10-20-2026]]
 	- ## [[Publishing/Scraps/index|Scraps]]
-		- Declare intent to rewrite landing page. 
-		- Declare intent to add disclaimers to all notes in **Scraps**. 
+		- Rewrote landing page.
+		- Added disclaimers to all notes in **Scraps**. 
+	- ## General
+		- Reformatted **Changelogs** to align with new standards. 
+			- Dates are H1 Headers. Topics are H2 sub-headers, and sub-topics are H3 sub-headers. Retrospectively applied this to the entire log.
+			- Added 10px worth of margins to the top and bottom of h2 elements to enhance readability. 

@@ -1,4 +1,5 @@
 ---
 title: Scraps
 ---
-Everything that I can't cleanly organize goes into this folder. Works that I've maintaining, essays that are left incomplete, stories with no end. You'll see what I mean in a year.
+
+Everything has two sides. This garden of mine is life, while this place is nothing but a cemetery. This is where I keep all of my discontinued notes– an archive of sorts. Perhaps I'll bring them back in another form, but until then– it remains here, waiting in a coffin. 
