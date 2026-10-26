@@ -123,7 +123,12 @@ Apart from that, I typically don't have any other engagements so I use my time a
 
 ------- 
 
+POS
 
+Build it in multisim, expression in lab handout can't be simplified further.
+**Full 32-row truth table**
+
+m-notation can be taken from the truth table.
 
 
 

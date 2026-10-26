@@ -161,7 +161,7 @@
 			- All of these notes will be actively worked on and maintained until I pass. After I pass this semester, these notes will remain– but they'll be deprioritized. After all, I'll be working on the next iteration. 
 			- Reminder for my future self: Group these courses into folders based on semesters. 
 	- ## Plans for [[Knowledge/AFROTC/index|AFROTC]]
-		- AF regulations prohibit Cadets from sharing any information in regards to AFQOT. This is oversimplified, but suffices for a changelog– so I can't mention that in my journal. 
+		- AF regulations prohibit Cadets from sharing any information in regards to AFOQT. This is oversimplified, but suffices for a changelog– so I can't mention that in my journal. 
 		- To avoid the chance of me shooting my own foot in regards to information, I will add a password and will restrict access to fellow cadets in the AFROTC program. 
 		- I will also rewrite the index page as it sounds too similar to what I've written here. 
 	- ## General 
@@ -307,3 +307,18 @@
 		- Reformatted **Changelogs** to align with new standards. 
 			- Dates are H1 Headers. Topics are H2 sub-headers, and sub-topics are H3 sub-headers. Retrospectively applied this to the entire log.
 			- Added 10px worth of margins to the top and bottom of h2 elements to enhance readability. 
+- # 10-25-2026
+- ## [[Publishing/Knowledge/AFROTC/Delta/index|Delta]]
+	- Implemented new standard for meeting notes- **Sanitization**
+		- To remove and obscure any identifiable information for privacy and security concerns
+		- A review of this entire folder is required, to retrospectively implement this standard for the sake of consistency.
+		- Reviewed notes due to concerns about information related to AFOQT.
+			- Two mentions exist: 
+				- [Changelogs](https://zakarias-digital-garden.pages.dev/changelog#plans-for-afrotc)
+				- [FT9-29-2026](https://zakarias-digital-garden.pages.dev/knowledge/afrotc/delta/ft9-29-2026#afoqt)
+			- Both mentions ironically warn against the disclosure that I've audited for.
+- ## General
+	- A through review of this changelog is required to audit open considerations. I would do it right now, but I only have enough energy for academics. Once again, like many of my essays– I'm tired. But I must move.
+- ## [[Publishing/Essays/index|Essays]]
+	- Changed the name of 'Cups' to kill the link. I believe that this is now my third time doing so. New name will not be written in changelogs. 
+	- 
